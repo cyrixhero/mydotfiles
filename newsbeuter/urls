@@ -1,0 +1,93 @@
+# Anonymity
+https://blog.torproject.org/blog/feed Anonymity
+https://blog.torproject.org/crss Anonymity
+https://tails.boum.org/news/index.en.rss Anonymity
+https://blog.getsync.com/feed/ Anonymity
+
+# Programming World
+http://feeds.feedburner.com/PythonInsider Programming Python
+http://feeds.feedburner.com/PerlNews?format=xml Programming Perl
+https://www.ruby-lang.org/zh_tw/feeds/news.rss Programming Ruby
+
+# web feeds
+https://hacks.mozilla.org/feed/ web
+http://www.webcreme.com/feed/ web
+http://www.stevesouders.com/blog/feed/ web
+http://ricardocabello.com/rss/ web
+http://badassjs.com/rss web
+http://benfrain.com/feed/ web
+http://blog.chromium.org/feeds/posts/default web
+http://www.zeldman.com/rss/ web
+http://feeds.feedburner.com/paul-irish web
+http://christianheilmann.com/feed/ web
+http://blog.patrickmeenan.com/feeds/posts/default web
+http://compass-style.org/blog/atom.xml web css
+http://feeds.feedburner.com/JohnResig web
+http://www.alistapart.com/feed/rss.xml web
+http://feeds.feedburner.com/24ways web
+http://fhtr.blogspot.com/feeds/posts/default web
+http://feeds.feedburner.com/csswizardrycom web
+http://css-ig.net/rss/flux web
+http://feeds.feedburner.com/CssTricks web css
+http://feeds.feedburner.com/SimpleA11Y web accessibility
+http://blog.vjeux.com/feed web
+http://feeds.feedburner.com/AshleyFord-Papermashupcom web
+http://feeds.feedburner.com/html5rocks web
+http://www.css3files.com/feed/ web css
+http://taras.glek.net/atom.xml web
+http://feeds.feedburner.com/dailyjs web javascript
+http://feeds.feedburner.com/mootools-blog web javascript
+http://feeds.feedburner.com/matthewjamestaylor?format=xml web
+http://feeds.feedburner.com/remysharp web javascript
+http://feeds.feedburner.com/somerandomdude web
+http://feeds.feedburner.com/thesassway web css sass
+http://feeds.justinhileman.info/justinhileman/blog web
+http://feeds2.feedburner.com/awf-allposts web
+http://hakim.se/rss.xml web
+http://html5doctor.com/feed/ web
+http://inessential.com/xml/rss.xml web
+http://jquery.com/blog/feed/ web jquery
+http://mobiletestingfordummies.tumblr.com/rss web
+http://nicolasgallagher.com/feed/ web
+http://palantir.net/blog/feed ~palantir.net web
+http://responsivedesignweekly.com/feed/ web responsive
+http://taitems.tumblr.com/rss web
+http://tiamat.tsotech.com/tiamat.rss web
+http://feeds.feedburner.com/spf13 web
+http://feeds.feedburner.com/RubyRedBricks web
+http://jakoblaegdsmand.com/feed.xml web
+http://codepen.io/chriscoyier/blog/feed/ web
+http://feeds2.feedburner.com/tympanus web
+
+# sysadmin feeads
+http://feeds.feedburner.com/linuxquestions/latest Linux
+http://feeds.feedburner.com/linuxquestions/lqnews Linux
+http://blog.linuxmint.com/?feed=rss2 Linux
+http://2bits.com/contents/articles/feed Drupal
+https://blog.flameeyes.eu/articles.atom autotools
+http://blog.nicolargo.com/feed Linux
+http://blog.sanctum.geek.nz/feed/ Linux
+http://www.debian-administration.org/atom.xml Debian
+http://www.archlinux.org/feeds/news/ ArchLinux
+https://manjaro.github.io/feed.xml ArchLinux
+http://dtrace.org/blogs/brendan/feed/ dtrace
+http://feeds2.feedburner.com/Command-line-fu CLI
+
+# news feeds
+http://feeds.feedburner.com/Qooah?format=xml news
+http://thenextweb.com/feed/ news
+http://www.ithome.com.tw/rss news
+https://www.facebook.com/feeds/notifications.php?id=100002980351392&viewer=100002980351392&key=AWjxyiK1q95TvUtJ&format=rss20 news
+http://mybroadband.co.za/news/feed news
+http://noteinruin.blogspot.com/feeds/posts/default news
+http://feeds.feedburner.com/inside-blog-taiwan?format=xml news
+http://feeds.initium.news/theinitium news
+https://news.google.com.tw/news?cf=all&hl=zh-TW&ned=tw&output=rss news
+https://news.google.com.tw/news?cf=all&hl=ko&ned=kr&output=rss news
+https://news.google.com.tw/news?cf=all&hl=zh-CN&ned=cn&output=rss news
+https://news.google.com.tw/news?cf=all&hl=zh-TW&ned=hk&output=rss news
+https://news.google.com.tw/news?cf=all&hl=en&ned=us&output=rss news
+https://news.google.com.tw/news?cf=all&hl=en&ned=en_sg&output=rss news
+http://technews.tw/feed/ news
+https://github.com/blog/all.atom news
+http://feeds.feedburner.com/Fossbytes?format=xml news
