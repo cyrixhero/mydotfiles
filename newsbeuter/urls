@@ -60,6 +60,7 @@ http://codepen.io/chriscoyier/blog/feed/ web
 http://feeds2.feedburner.com/tympanus web
 
 # sysadmin feeads
+https://fedoramagazine.org/feed/ Fedora Linux
 http://feeds.feedburner.com/linuxquestions/latest Linux
 http://feeds.feedburner.com/linuxquestions/lqnews Linux
 http://blog.linuxmint.com/?feed=rss2 Linux
@@ -67,13 +68,14 @@ http://2bits.com/contents/articles/feed Drupal
 https://blog.flameeyes.eu/articles.atom autotools
 http://blog.nicolargo.com/feed Linux
 http://blog.sanctum.geek.nz/feed/ Linux
-http://www.debian-administration.org/atom.xml Debian
-http://www.archlinux.org/feeds/news/ ArchLinux
-https://manjaro.github.io/feed.xml ArchLinux
+http://www.debian-administration.org/atom.xml Debian Linux
+http://www.archlinux.org/feeds/news/ Arch Linux
+https://manjaro.github.io/feed.xml Arch Linux
 http://dtrace.org/blogs/brendan/feed/ dtrace
 http://feeds2.feedburner.com/Command-line-fu CLI
 
 # news feeds
+https://www.deepdotweb.com/feed/ news
 http://feeds.mashable.com/Mashable?format=xml news
 http://feeds.feedburner.com/Qooah?format=xml news
 http://thenextweb.com/feed/ news
