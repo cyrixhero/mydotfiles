@@ -115,7 +115,7 @@ set include                          # include message in replies
 set forward_quote                    # include message in forwards
 
 # Postponing Drafts
-bind compose p postpone-message
+# bind compose p postpone-message
 bind index p recall-message
 
 # Searching Email
@@ -150,4 +150,7 @@ source $alias_file
 
 # Mutt colors
 source ~/.mutt/colors
+
+# GnuPG with Mutt
+source ~/.mutt/gpg.rc
 
