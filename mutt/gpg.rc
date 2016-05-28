@@ -88,9 +88,9 @@ set pgp_decryption_okay="^\\[GNUPG:\\] DECRYPTION_OKAY"
 
 # Signature every outgoing mail by pgp
 set pgp_autosign=yes
-set pgp_sign_as=0x9FAB148C
+set pgp_sign_as=0x475BC8B1
 set pgp_replyencrypt=yes
 
 # During these time you will not needed to enter passparse again
-set pgp_timeout=180
+set pgp_timeout=900
 
