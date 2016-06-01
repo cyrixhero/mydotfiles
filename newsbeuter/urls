@@ -75,6 +75,8 @@ http://dtrace.org/blogs/brendan/feed/ dtrace
 http://feeds2.feedburner.com/Command-line-fu CLI
 
 # News
+http://feeds.feedburner.com/itwalker?format=xml News
+http://feeds2.feedburner.com/noobsspace News
 http://newtoypia.blogspot.com/feeds/comments/default News
 http://newtoypia.blogspot.com/feeds/posts/default News
 http://ckhung0.blogspot.com/feeds/comments/default News
@@ -101,3 +103,7 @@ https://news.google.com.tw/news?cf=all&hl=en&ned=en_sg&output=rss News
 http://technews.tw/feed/ News
 https://github.com/blog/all.atom News
 http://feeds.feedburner.com/Fossbytes?format=xml News
+
+# Social Media
+http://blog.business.instagram.com/rss SocialMedia Instagram
+
