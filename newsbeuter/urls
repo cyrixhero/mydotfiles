@@ -9,70 +9,64 @@ http://feeds.feedburner.com/PythonInsider Programming Python
 http://feeds.feedburner.com/PerlNews?format=xml Programming Perl
 https://www.ruby-lang.org/zh_tw/feeds/news.rss Programming Ruby
 
-# web feeds
-https://hacks.mozilla.org/feed/ web
-http://www.webcreme.com/feed/ web
-http://www.stevesouders.com/blog/feed/ web
-http://ricardocabello.com/rss/ web
-http://badassjs.com/rss web
-http://benfrain.com/feed/ web
-http://blog.chromium.org/feeds/posts/default web
-http://www.zeldman.com/rss/ web
-http://feeds.feedburner.com/paul-irish web
-http://christianheilmann.com/feed/ web
-http://blog.patrickmeenan.com/feeds/posts/default web
-http://compass-style.org/blog/atom.xml web css
-http://feeds.feedburner.com/JohnResig web
-http://www.alistapart.com/feed/rss.xml web
-http://feeds.feedburner.com/24ways web
-http://fhtr.blogspot.com/feeds/posts/default web
-http://feeds.feedburner.com/csswizardrycom web
-http://css-ig.net/rss/flux web
-http://feeds.feedburner.com/CssTricks web css
-http://feeds.feedburner.com/SimpleA11Y web accessibility
-http://blog.vjeux.com/feed web
-http://feeds.feedburner.com/AshleyFord-Papermashupcom web
-http://feeds.feedburner.com/html5rocks web
-http://www.css3files.com/feed/ web css
-http://taras.glek.net/atom.xml web
-http://feeds.feedburner.com/dailyjs web javascript
-http://feeds.feedburner.com/mootools-blog web javascript
-http://feeds.feedburner.com/matthewjamestaylor?format=xml web
-http://feeds.feedburner.com/remysharp web javascript
-http://feeds.feedburner.com/somerandomdude web
-http://feeds.feedburner.com/thesassway web css sass
-http://feeds.justinhileman.info/justinhileman/blog web
-http://feeds2.feedburner.com/awf-allposts web
-http://hakim.se/rss.xml web
-http://html5doctor.com/feed/ web
-http://inessential.com/xml/rss.xml web
-http://jquery.com/blog/feed/ web jquery
-http://mobiletestingfordummies.tumblr.com/rss web
-http://nicolasgallagher.com/feed/ web
-http://palantir.net/blog/feed ~palantir.net web
-http://responsivedesignweekly.com/feed/ web responsive
-http://taitems.tumblr.com/rss web
-http://tiamat.tsotech.com/tiamat.rss web
-http://feeds.feedburner.com/spf13 web
-http://feeds.feedburner.com/RubyRedBricks web
-http://jakoblaegdsmand.com/feed.xml web
-http://codepen.io/chriscoyier/blog/feed/ web
-http://feeds2.feedburner.com/tympanus web
+# Web Development
+https://hacks.mozilla.org/feed/ Web
+http://www.Webcreme.com/feed/ Web
+http://www.stevesouders.com/blog/feed/ Web
+http://ricardocabello.com/rss/ Web
+http://badassjs.com/rss Web
+http://benfrain.com/feed/ Web
+http://blog.chromium.org/feeds/posts/default Web
+http://www.zeldman.com/rss/ Web
+http://feeds.feedburner.com/paul-irish Web
+http://christianheilmann.com/feed/ Web
+http://blog.patrickmeenan.com/feeds/posts/default Web
+http://compass-style.org/blog/atom.xml Web CSS
+http://feeds.feedburner.com/JohnResig Web
+http://www.alistapart.com/feed/rss.xml Web
+http://feeds.feedburner.com/24ways Web
+http://fhtr.blogspot.com/feeds/posts/default Web
+http://feeds.feedburner.com/CSSwizardrycom Web
+http://CSS-ig.net/rss/flux Web
+http://feeds.feedburner.com/CssTricks Web CSS
+http://blog.vjeux.com/feed Web
+http://feeds.feedburner.com/AshleyFord-Papermashupcom Web
+http://feeds.feedburner.com/html5rocks Web
+http://www.CSS3files.com/feed/ Web CSS
+http://taras.glek.net/atom.xml Web
+http://feeds.feedburner.com/dailyjs Web JavaScript
+http://feeds.feedburner.com/mootools-blog Web JavaScript
+http://feeds.feedburner.com/matthewjamestaylor?format=xml Web
+http://feeds.feedburner.com/remysharp Web JavaScript
+http://feeds.feedburner.com/somerandomdude Web
+http://feeds.justinhileman.info/justinhileman/blog Web
+http://feeds2.feedburner.com/awf-allposts Web
+http://hakim.se/rss.xml Web
+http://html5doctor.com/feed/ Web
+http://inessential.com/xml/rss.xml Web
+http://mobiletestingfordummies.tumblr.com/rss Web
+http://nicolasgallagher.com/feed/ Web
+http://palantir.net/blog/feed ~palantir.net Web
+http://taitems.tumblr.com/rss Web
+http://tiamat.tsotech.com/tiamat.rss Web
+http://feeds.feedburner.com/spf13 Web
+http://feeds.feedburner.com/RubyRedBricks Web
+http://jakoblaegdsmand.com/feed.xml Web
+http://codepen.io/chriscoyier/blog/feed/ Web
+http://feeds2.feedburner.com/tympanus Web
 
-# sysadmin feeads
+# SysAdmin
+http://distrowatch.com/news/dwp.xml Linux
 https://fedoramagazine.org/feed/ Fedora Linux
 http://feeds.feedburner.com/linuxquestions/latest Linux
 http://feeds.feedburner.com/linuxquestions/lqnews Linux
 http://blog.linuxmint.com/?feed=rss2 Linux
-http://2bits.com/contents/articles/feed Drupal
-https://blog.flameeyes.eu/articles.atom autotools
 http://blog.nicolargo.com/feed Linux
 http://blog.sanctum.geek.nz/feed/ Linux
 http://www.debian-administration.org/atom.xml Debian Linux
 http://www.archlinux.org/feeds/news/ Arch Linux
 https://manjaro.github.io/feed.xml Arch Linux
-http://dtrace.org/blogs/brendan/feed/ dtrace
-http://feeds2.feedburner.com/Command-line-fu CLI
+http://feeds2.feedburner.com/Command-line-fu Linux CLI
 
 # News
 http://feeds.feedburner.com/itwalker?format=xml News
@@ -84,10 +78,10 @@ http://ckhung0.blogspot.com/feeds/posts/default News
 http://www.techrepublic.com/mediafed/articles/latest/ News
 http://theanoncast.com/rss News
 http://feeds.feedburner.com/BuzzOrange?format=xml News
-https://www.deepdotweb.com/feed/ News
+https://www.deepdotWeb.com/feed/ Web News
 http://feeds.mashable.com/Mashable?format=xml News
 http://feeds.feedburner.com/Qooah?format=xml News
-http://thenextweb.com/feed/ News
+http://thenextWeb.com/feed/ Web News
 http://www.ithome.com.tw/rss News
 https://www.facebook.com/feeds/notifications.php?id=100002980351392&viewer=100002980351392&key=AWjxyiK1q95TvUtJ&format=rss20 News
 http://mybroadband.co.za/news/feed News
@@ -107,3 +101,6 @@ http://feeds.feedburner.com/Fossbytes?format=xml News
 # Social Media
 http://blog.business.instagram.com/rss SocialMedia Instagram
 
+# Mobile Operating system
+http://feeds.feedburner.com/OfficialAndroidBlog Linux Android
+http://feeds.feedburner.com/blogspot/hsDu?format=xml Linux Android
