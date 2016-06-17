@@ -16,12 +16,14 @@ shopt -s checkwinsize
 shopt -s expand_aliases
 
 alias crontabedit='sudo EDITOR=vim crontab -e'
+alias EncryptTextSandy='gpg --encrypt --sign --armor -r Sandy'
 alias cp="cp -i"                          # confirm before overwriting something
 alias vi="vim"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
 alias more=less
+
 # export QT_SELECT=4
 
 # Enable history appending instead of overwriting.  #139609
@@ -148,3 +150,4 @@ colors() {
 }
 
 [ -r /usr/share/bash-completion/bash_completion   ] && . /usr/share/bash-completion/bash_completion
+
