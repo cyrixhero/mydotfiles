@@ -5,6 +5,8 @@ https://blog.torproject.org/blog/feed Anonymity
 https://blog.torproject.org/crss Anonymity
 https://tails.boum.org/news/index.en.rss Anonymity
 https://blog.getsync.com/feed/ Anonymity
+https://www.trustedsec.com/feed/ Anonymity SocialMedia
+https://feeds.feedburner.com/blogspot/EqoNV Anonymity hacks
 
 # Programming World
 http://feeds.feedburner.com/PythonInsider Programming Python
@@ -75,6 +77,11 @@ https://manjaro.github.io/feed.xml Arch Linux
 http://feeds2.feedburner.com/Command-line-fu Linux CLI
 
 # News
+https://feeds.feedburner.com/Torrentfreak News
+https://world.yam.com/rss.php News
+http://openmedia.jp/blog/?feed=rss2 News
+http://china.hani.co.kr/arti/RSS/ News
+http://rocket.cafe/feed News
 https://www.eff.org/rss/updates.xml News
 http://feeds.feedburner.com/itwalker?format=xml News
 http://feeds2.feedburner.com/noobsspace News

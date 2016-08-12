@@ -4,6 +4,9 @@ nmap <leader>l :set list!<CR>
  set autochdir
 
 " I'm prefer spaces to tabs
+filetype indent on
+set smartindent
+set filetype=html
 set tabstop=4
 set shiftwidth=4
 set expandtab
