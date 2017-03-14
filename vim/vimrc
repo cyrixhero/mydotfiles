@@ -1,3 +1,9 @@
+" Tab pages with keyboard
+map <C-t> <Esc>:tabnew<CR>
+map <C-w> <Esc>:tabclose<CR>
+map <C-n> <Esc>gt<CR>
+map <C-p> <Esc>gT<CR>
+
 " Select all text
 map <C-a> <esc>ggVG<CR>
 
@@ -37,6 +43,9 @@ Plug 'scrooloose/nerdtree'
 " Press F2 in vim and it will take you to the current working directory.
 " Press ? to see NerdTree’s list of commands.
 map <F2> :NERDTreeToggle<CR>
+
+" An extensible & universal comment vim-plugin that also handles embedded filetypes.
+Plug 'tomtom/tcomment_vim'
 
 " With this plugin, your vim comes to automatically opens popup menu for
 " completions when you enter characters or move the cursor in Insert mode.

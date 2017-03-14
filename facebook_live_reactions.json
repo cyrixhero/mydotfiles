@@ -130,7 +130,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "text": "經典賽後，您認為誰在壓榨、阻礙台灣運動員的發展？"
+                "text": "為了尊嚴、生存與發展，你主張台灣應該："
             },
             "sync": 0,
             "volume": 1.0
@@ -151,7 +151,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "capture_window": "46137346\r\n1.mkv - mpv\r\ngl",
+                "capture_window": "35651586\r\n1.webm - mpv\r\ngl",
                 "show_cursor": false,
                 "swap_redblue": true
             },
@@ -174,7 +174,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "text": "以上皆是"
+                "text": "拿綠卡移民"
             },
             "sync": 0,
             "volume": 1.0
@@ -195,7 +195,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "text": "中華民國政府"
+                "text": "維持現狀"
             },
             "sync": 0,
             "volume": 1.0
@@ -224,7 +224,7 @@
                     "size": 32,
                     "style": ""
                 },
-                "text": "中國國民黨"
+                "text": "邁向建國"
             },
             "sync": 0,
             "volume": 1.0
@@ -353,7 +353,7 @@
                         "crop_top": 0,
                         "name": "投票選項：中國國民黨",
                         "pos": {
-                            "x": 90.0,
+                            "x": 119.0,
                             "y": 947.0
                         },
                         "rot": 0.0,
@@ -378,7 +378,7 @@
                         "crop_top": 0,
                         "name": "投票選項：中華民國政府",
                         "pos": {
-                            "x": 619.0,
+                            "x": 698.0,
                             "y": 945.6944580078125
                         },
                         "rot": 0.0,
@@ -403,38 +403,13 @@
                         "crop_top": 0,
                         "name": "投票選項：以上皆是",
                         "pos": {
-                            "x": 1247.0,
+                            "x": 1218.0,
                             "y": 947.0
                         },
                         "rot": 0.0,
                         "scale": {
                             "x": 2.3020832538604736,
                             "y": 2.3055555820465088
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1119.0,
-                            "y": 787.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 1,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "name": "影音畫面",
-                        "pos": {
-                            "x": 0.0,
-                            "y": -16.0
-                        },
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -454,12 +429,37 @@
                         "name": "QtWebKit Browser",
                         "pos": {
                             "x": 1118.0,
-                            "y": -1.0
+                            "y": -2.0
                         },
                         "rot": 0.0,
                         "scale": {
                             "x": 1.1000000238418579,
                             "y": 1.1000000238418579
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1680.0,
+                            "y": 794.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 1,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "name": "影音畫面",
+                        "pos": {
+                            "x": 0.0,
+                            "y": -29.0
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -485,7 +485,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "capture_window": "33554448\r\nMy Facebook Reactions - Vimperator\r\nNavigator",
+                "capture_window": "35651667\r\nMy Facebook Reactions - Vimperator\r\nNavigator",
                 "cut_left": 0,
                 "show_cursor": false,
                 "swap_redblue": true
