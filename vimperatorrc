@@ -2,6 +2,9 @@ set gui=none
 set noscrollbars
 highlight Hint -append font-size:17.5px
 
+" Ctrl-a
+inoremap <C-a> <C-Home><C-S-End>
+
 map <silent> <C-F8> :js toggle_bottombar()<CR>
 
 :js << EOF

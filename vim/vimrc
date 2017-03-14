@@ -1,3 +1,9 @@
+" Select all text
+map <C-a> <esc>ggVG<CR>
+
+" Which will automatically use the + buffer (the system clipboard) by default. Then to yank (copy), you just use the regular y command, etc. 
+set clipboard=unnamedplus
+
 " Use <leader>l to toggle display of whitespace
 nmap <leader>l :set list!<CR>
 " automatically change window's cwd to file's dir
