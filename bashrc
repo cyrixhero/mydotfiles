@@ -19,6 +19,7 @@ alias crontabedit='sudo EDITOR=vim crontab -e'
 alias EncryptTextSandy='gpg --encrypt --sign --armor -r Sandy'
 alias cp="cp -i"                          # confirm before overwriting something
 alias vi="vim"                          # confirm before overwriting something
+alias noxemacs="emacs -nw"
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
