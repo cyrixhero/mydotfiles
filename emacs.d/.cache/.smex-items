@@ -1,0 +1,54 @@
+
+;; ----- smex-history -----
+(
+ quickurl
+ quick-calc
+ term
+ browse-web
+ browse-url-of-dired-file
+ comment-line
+ browse-url-firefox
+ shell
+ sh-mode
+ package-install
+ complete-tag
+ menu-bar-mode
+ browse-url
+ package-refresh-contents
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+ ert
+ eww
+ ftp
+ gdb
+ irc
+ jdb
+ man
+ mpc
+ pdb
+ pwd
+ rsh
+ sdb
+)
+
+;; ----- smex-data -----
+(
+ (package-refresh-contents . 1)
+ (browse-web . 4)
+ (browse-url-firefox . 6)
+ (browse-url . 1)
+ (comment-line . 5)
+ (menu-bar-mode . 2)
+ (complete-tag . 1)
+ (shell . 3)
+ (package-install . 2)
+ (sh-mode . 1)
+ (browse-url-of-dired-file . 1)
+ (term . 2)
+ (quick-calc . 1)
+ (quickurl . 1)
+)

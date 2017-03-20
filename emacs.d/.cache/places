@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+(("/home/cyrix/code/facebook.html" . 374)
+ ("/home/cyrix/.emacs.d/.cache/recentf" . 710)
+ ("/home/cyrix/.emacs.d/.cache/layouts/persp-auto-save" . 1486)
+ ("/usr/share/emacs/25.1/etc/NEWS" . 3755)
+ ("/home/cyrix/"
+  (dired-filename . "/home/cyrix/.e"))
+ ("/home/cyrix/code/"
+  (dired-filename . "/home/cyrix/code/mydotfiles"))
+ ("/home/cyrix/code/mydotfiles/"
+  (dired-filename . "/home/cyrix/code/mydotfiles/i3"))
+ ("/home/cyrix/code/mydotfiles/i3/"
+  (dired-filename . "/home/cyrix/code/mydotfiles/i3/config"))
+ ("/home/cyrix/code/mydotfiles/i3/config" . 1033)
+ ("/etc/"
+  (dired-filename . "/etc/i3status.conf"))
+ ("/etc/i3/config" . 4088)
+ ("/home/cyrix/.spacemacs" . 7056)
+ ("/home/cyrix/.vimrc" . 1731)
+ ("/home/cyrix/.emacs.d/layers/+vim/vim-powerline/local/vim-powerline/vim-powerline-theme.el" . 1685)
+ ("/home/cyrix/.emacs.d/elpa/vimrc-mode-20150607.913/vimrc-mode-autoloads.el" . 630)
+ ("/home/cyrix/.emacs.d/elpa/dactyl-mode-20140906.1025/dactyl-mode-autoloads.el" . 430)
+ ("/home/cyrix/.adobe/"
+  (dired-filename . "/home/cyrix/.adobe/.."))
+ ("/home/"
+  (dired-filename . "/home/cyrix"))
+ ("/home/cyrix/.emacs.d/"
+  (dired-filename . "/home/cyrix/.emacs.d/CHANGELOG.org"))
+ ("/home/cyrix/code/facebook_live_reactions/"
+  (dired-filename . "/home/cyrix/code/facebook_live_reactions/index.html"))
+ ("/home/cyrix/.emacs.d/CHANGELOG.org" . 979)
+ ("/home/cyrix/.emacs.d/elpa/web-mode-20170309.3/web-mode-autoloads.el" . 394)
+ ("/home/cyrix/.emacs.d/elpa/tagedit-20161121.55/tagedit-autoloads.el" . 1712)
+ ("/home/cyrix/.emacs.d/elpa/slim-mode-20140611.950/slim-mode-autoloads.el" . 476)
+ ("/home/cyrix/.emacs.d/elpa/scss-mode-20150107.1400/scss-mode-autoloads.el" . 515)
+ ("/home/cyrix/.emacs.d/elpa/sass-mode-20161006.2326/sass-mode-autoloads.el" . 475)
+ ("/home/cyrix/.emacs.d/elpa/pug-mode-20170127.1949/pug-mode-autoloads.el" . 532)
+ ("/home/cyrix/.emacs.d/elpa/less-css-mode-20160930.2153/less-css-mode-autoloads.el" . 2595)
+ ("/home/cyrix/.emacs.d/elpa/haml-mode-20170208.28/haml-mode-autoloads.el" . 476)
+ ("/home/cyrix/.emacs.d/elpa/emmet-mode-20161113.2158/emmet-mode-autoloads.el" . 1587))
