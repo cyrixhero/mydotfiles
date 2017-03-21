@@ -30,8 +30,8 @@ font pango:monospace 16
 floating_modifier $mod
 
 # Network and sound applets
+# exec --no-startup-id /usr/bin/blueman-applet
 exec --no-startup-id /usr/bin/nm-applet
-exec --no-startup-id /usr/bin/blueman-applet
 
 # Pulse Audio controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
