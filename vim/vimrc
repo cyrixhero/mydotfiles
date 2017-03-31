@@ -1,6 +1,6 @@
 " Tab pages with keyboard
 map <C-t> <Esc>:tabnew<CR>
-map <C-w> <Esc>:tabclose<CR>
+map <C-x> <Esc>:tabclose<CR>
 map <C-n> <Esc>gt<CR>
 map <C-p> <Esc>gT<CR>
 
@@ -46,6 +46,9 @@ map <F2> :NERDTreeToggle<CR>
 
 " An extensible & universal comment vim-plugin that also handles embedded filetypes.
 Plug 'tomtom/tcomment_vim'
+
+" A Vim plugin for managing a Wordpress blog.
+Plug 'danielmiessler/VimBlog'
 
 " With this plugin, your vim comes to automatically opens popup menu for
 " completions when you enter characters or move the cursor in Insert mode.
