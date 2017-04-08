@@ -1,1 +1,1 @@
-("~/code/facebook_live_reactions/" "~/code/mydotfiles/" "~/.emacs.d/")
+("~/code/facebook_live_reactions/" "~/code/cyrixhero.github.io/" "~/.emacs.d/" "~/code/mydotfiles/")

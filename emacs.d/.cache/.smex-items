@@ -1,54 +1,79 @@
 
 ;; ----- smex-history -----
 (
- quickurl
- quick-calc
  term
- browse-web
- browse-url-of-dired-file
- comment-line
- browse-url-firefox
  shell
  sh-mode
  package-install
- complete-tag
- menu-bar-mode
+ configuration-layer/create-layer
+ indent-rigidly-right
+ slime
+ lisp-mode
+ slime-mode
+ slim-mode
+ lisp-interaction-mode
+ browse-url-elinks
+ browse-url-w3
+ browse-url-emacs
+ browse-web
  browse-url
+ clipboard-yank
+ clipboard-kill-ring-save
+ clipboard-kill-region
+ copy-to-buffer
+ package-delete
+ quickurl
+ quick-calc
+ browse-url-of-dired-file
+ comment-line
+ browse-url-firefox
+ menu-bar-mode
+ complete-tag
  package-refresh-contents
  cd
  5x5
  arp
- dbx
- dig
- erc
- ert
- eww
- ftp
- gdb
- irc
- jdb
- man
- mpc
- pdb
- pwd
- rsh
- sdb
 )
 
 ;; ----- smex-data -----
 (
  (package-refresh-contents . 1)
- (browse-web . 4)
+ (browse-web . 9)
  (browse-url-firefox . 6)
- (browse-url . 1)
+ (browse-url . 24)
  (comment-line . 5)
  (menu-bar-mode . 2)
  (complete-tag . 1)
- (shell . 3)
- (package-install . 2)
- (sh-mode . 1)
+ (shell . 4)
+ (package-install . 26)
+ (sh-mode . 2)
  (browse-url-of-dired-file . 1)
- (term . 2)
+ (term . 6)
  (quick-calc . 1)
  (quickurl . 1)
+ (lisp-interaction-mode . 5)
+ (package-delete . 1)
+ (clipboard-yank . 3)
+ (copy-to-buffer . 1)
+ (clipboard-kill-region . 1)
+ (clipboard-kill-ring-save . 1)
+ (browse-url-emacs . 1)
+ (browse-url-w3 . 1)
+ (browse-url-elinks . 1)
+ (slim-mode . 4)
+ (slime . 19)
+ (slime-repl . 1)
+ (slime-mode . 2)
+ (slime-repl-quit . 3)
+ (lisp-mode . 1)
+ (indent-rigidly-right . 1)
+ (configuration-layer/create-layer . 1)
+ (org2blog/wp-login . 10)
+ (org2blog/wp-mode . 3)
+ (org2blog/wp-new-entry . 6)
+ (org2blog/wp-complete-category . 2)
+ (org2blog/wp-preview-buffer-post . 1)
+ (org2blog/wp-post-buffer . 15)
+ (org2blog/wp-post-buffer-and-publish . 4)
+ (org2blog/wp-track-buffer . 1)
 )

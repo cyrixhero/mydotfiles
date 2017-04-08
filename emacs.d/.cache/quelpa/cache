@@ -1,1 +1,1 @@
-((evil-unimpaired :fetcher file :path "/home/cyrix/.emacs.d/layers/+spacemacs/spacemacs-evil/local/evil-unimpaired/evil-unimpaired.el"))
+((evil-unimpaired :fetcher file :path "/home/cyrix/.emacs.d/layers/+spacemacs/spacemacs-evil/local/evil-unimpaired/evil-unimpaired.el") (org2blog :fetcher github :repo "punchagan/org2blog"))

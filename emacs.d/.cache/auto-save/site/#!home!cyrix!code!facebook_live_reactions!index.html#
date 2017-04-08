@@ -7,8 +7,7 @@
 <!-- Original source code: https://gist.github.com/anonymous/7073ea6c601f28aa65e5a077ef875526 -->
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <head
+<head>
 	<meta charset="UTF-8">
 	<title>My Facebook Reactions</title>
 	<style>
@@ -94,7 +93,6 @@
 		<h1></h1> <!-- YOUR TITLE HERE -->
 	</header>
 	<!-- REACTIONS -->
-	<!-- <div class="tc wf angry"><img class="emoji" src="emojis/angry.png"><span class="counter"></span></div>
 	<div class="tc wf shock"><img class="emoji" src="emojis/shock.png"><span class="counter"></span></div> -->
 	<div class="tc wf likes"><img class="emoji" src="emojis/like.png"><span class="counter"></span></div>
 	<div class="tc wf happy"><img class="emoji" src="emojis/love.png"><span class="counter"></span></div>
@@ -105,7 +103,7 @@
 	<script src="lodash.min.js"></script>
 	<script>
 	"use strict";
-	var access_token = ''; // PASTE HERE YOUR FACEBOOK ACCESS TOKEN
+	var access_token = '1698321763753896|uZAyg9ohg_wTKqrt7EHhW5mnOKQ'; // PASTE HERE YOUR FACEBOOK ACCESS TOKEN
 	var postID = ''; // PASTE HERE YOUR POST ID
 	var refreshTime = 5; // Refresh time in seconds
 	var defaultCount = 0; // Default count to start with
