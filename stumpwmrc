@@ -1,0 +1,16 @@
+;; -*-lisp-*-
+(in-package :stumpwm)
+
+;; Startup apps
+(stumpwm::run-shell-command "xbacklight -set 9")
+(stumpwm::run-shell-command "lxterminal")
+
+;; Custom key
+(define-key *root-map* (kbd "l") "exec i3lock -c 0f0f00")
+(define-key *root-map* (kbd "e") "exec emacs")
+(define-key *root-map* (kbd "C-e") "exec emacs")
+(define-key *root-map* (kbd "c") "exec lxterminal")
+(define-key *root-map* (kbd "C-c") "exec lxterminal")
+
+;; Set the mouse policy to focus follows mouse;
+(setf *mouse-focus-policy* :click) ;; :click, :ignore, :sloppy

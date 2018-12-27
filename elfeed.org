@@ -1,0 +1,28 @@
+* Blogs                                                              :elfeed:
+** Dark Hacker                                                       
+*** Emacs                                                    :emacs:mustread:
+**** http://planet.lisp.org/rss20.xml
+**** http://www.terminally-incoherent.com/blog/feed
+**** http://nullprogram.com/feed
+**** http://planet.emacsen.org/atom.xml
+*** Dark Web                                                        :darknet:
+**** https://geti2p.net/en/feed/blog/atom                           :i2p:
+**** http://planet.gnu.org/rss20.xml
+**** https://blog.torproject.org/rss.xml                            :tor:
+**** https://news.ycombinator.com/rss
+**** http://www.deepdotweb.com/feed
+**** https://tails.boum.org/news/index.en.atom                      :tails:tor:
+*** Clear Web
+**** http://www6.nhk.or.jp/special/feed/schedule.html
+**** https://www.ithome.com.tw/rss
+**** https://hacks.mozilla.org/feed/
+**** https://tw.appledaily.com/rss/create/kind/sec/type/1077
+**** https://tw.appledaily.com/rss/create/kind/sec/type/1066
+**** http://news.ltn.com.tw/rss/focus.xml
+**** http://news.ltn.com.tw/rss/society.xml
+**** http://news.ltn.com.tw/rss/southern.xml
+**** http://feeds.reuters.com/Reuters/worldNews
+**** https://feeds.feedburner.com/arstechnica/index/
+**** https://www.theguardian.com/uk/rss
+**** https://lwn.net/headlines/newrss
+**** http://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml?edition=uk
