@@ -13,6 +13,7 @@
 **** http://www.deepdotweb.com/feed
 **** https://tails.boum.org/news/index.en.atom                      :tails:tor:
 *** Clear Web
+**** https://lifehacker.com/rss
 **** http://www6.nhk.or.jp/special/feed/schedule.html
 **** https://www.ithome.com.tw/rss
 **** https://hacks.mozilla.org/feed/
@@ -25,4 +26,3 @@
 **** https://feeds.feedburner.com/arstechnica/index/
 **** https://www.theguardian.com/uk/rss
 **** https://lwn.net/headlines/newrss
-**** http://feeds.bbci.co.uk/news/video_and_audio/news_front_page/rss.xml?edition=uk
