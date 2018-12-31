@@ -22,7 +22,5 @@
 **** http://news.ltn.com.tw/rss/focus.xml
 **** http://news.ltn.com.tw/rss/society.xml
 **** http://news.ltn.com.tw/rss/southern.xml
-**** http://feeds.reuters.com/Reuters/worldNews
 **** https://feeds.feedburner.com/arstechnica/index/
-**** https://www.theguardian.com/uk/rss
 **** https://lwn.net/headlines/newrss
