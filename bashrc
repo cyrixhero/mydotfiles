@@ -97,6 +97,7 @@ alias np='nano -w PKGBUILD'
 alias more=less
 alias vi="vim"
 alias emacs="emacs -nw"
+alias lispblog="sbcl --load .coleslaw.lisp --eval '(quit)'"
 
 xhost +local:root > /dev/null 2>&1
 
