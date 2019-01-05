@@ -98,6 +98,7 @@ alias more=less
 alias vi="vim"
 alias emacs="emacs -nw"
 alias lispblog="sbcl --load .coleslaw.lisp --eval '(quit)'"
+alias music="mpv --loop-playlist --shuffle music/playlist.m3u"
 
 xhost +local:root > /dev/null 2>&1
 
