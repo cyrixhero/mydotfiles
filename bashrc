@@ -99,6 +99,7 @@ alias vi="vim"
 alias emacs="emacs -nw"
 alias lispblog="sbcl --load .coleslaw.lisp --eval '(quit)'"
 alias music="mpv --loop-playlist --shuffle music/playlist.m3u"
+alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"'
 
 xhost +local:root > /dev/null 2>&1
 
