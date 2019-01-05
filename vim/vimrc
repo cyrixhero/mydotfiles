@@ -18,7 +18,7 @@ nmap <leader>l :set list!<CR>
 " I'm prefer spaces to tabs
 filetype indent on
 set smartindent
-set filetype=html
+set filetype=lisp
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -47,9 +47,6 @@ map <F2> :NERDTreeToggle<CR>
 " An extensible & universal comment vim-plugin that also handles embedded filetypes.
 Plug 'tomtom/tcomment_vim'
 
-" A Vim plugin for managing a Wordpress blog.
-Plug 'danielmiessler/VimBlog'
-
 " With this plugin, your vim comes to automatically opens popup menu for
 " completions when you enter characters or move the cursor in Insert mode.
 Plug 'vim-scripts/AutoComplPop'
@@ -57,24 +54,14 @@ Plug 'vim-scripts/AutoComplPop'
 " lean & mean status/tabline for vim that's light as air
 Plug 'bling/vim-airline'
 let &t_Co=256
-" airline设置
 set laststatus=2
-" 使用powerline打过补丁的字体
 let g:airline_powerline_fonts = 1
-" 开启tabline
 let g:airline#extensions#tabline#enabled = 1
-" tabline中当前buffer两端的分隔字符
 let g:airline#extensions#tabline#left_sep = ' '
-" tabline中未激活buffer两端的分隔字符
 let g:airline#extensions#tabline#left_alt_sep = '|'
-" tabline中buffer显示编号
 let g:airline#extensions#tabline#buffer_nr_show = 1
-" 映射切换buffer的键位
 nnoremap [b :bp<CR>
 nnoremap ]b :bn<CR>
-
-" fugitive.vim: a Git wrapper so awesome
-Plug 'tpope/vim-fugitive'
 
 " Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 Plug 'klen/python-mode'
