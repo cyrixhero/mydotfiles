@@ -3,7 +3,8 @@
 
 ;; Startup apps
 (stumpwm::run-shell-command "xbacklight -set 9")
-(stumpwm::run-shell-command "lxterminal")
+(stumpwm::run-shell-command "xrandr --output VIRTUAL1 --off --output eDP1 --off --output DP1 --off --output HDMI2 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI1 --off --output DP2 --off")
+(stumpwm::run-shell-command "emacs")
 
 ;; Custom key
 (define-key *root-map* (kbd "l") "exec i3lock -c 0f0f00")
