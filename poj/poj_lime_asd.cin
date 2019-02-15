@@ -3664,6 +3664,9 @@ kad	敎	66
 kad	較	113
 kag	kâ	201
 kaj	kā	201
+kaj か
+kaj カ
+kaj ヵ
 kaj	咬	131
 kaj	共	133
 kahf	kah	201
@@ -4893,8 +4896,7 @@ kohf	胳	117
 kokf	kok	201
 kokf	各	123
 kokf	谷	119
-kokf	國	126
-kokf	囯	44
+kokf	国	44
 kokf	郭	82
 kokf	閣	92
 kokf	穀	120
@@ -5203,6 +5205,7 @@ lej	隸	112
 lej	麗	117
 lej	淚	94
 lej	儷	88
+le  レ
 leh レ
 lehf	leh	201
 lehf	塊	108
@@ -5844,6 +5847,7 @@ mngj	mn̄g	201
 mngj	問	130
 mnghk	mn̍gh	201
 mnghk	物	123
+mo    モ
 moaa	moa	201
 moaa	披	121
 moas	móa	201
@@ -5952,6 +5956,7 @@ ned	nè	201
 nehf	neh	201
 nehk	ne̍h	201
 Nga	Ng	202
+ng  ン
 nga	ng	201
 nga	央	120
 nga	秧	119
@@ -9167,7 +9172,7 @@ toug	徒	113
 toug	屠	111
 toug	途	123
 toug	塗	122
-toug	圖	132
+toug  図
 touj	tō͘	201
 touj	杜	129
 touj	肚	128
