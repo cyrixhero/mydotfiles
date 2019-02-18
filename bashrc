@@ -100,6 +100,9 @@ alias emacs="emacs -nw"
 alias lispblog="sbcl --load .coleslaw.lisp --eval '(quit)'"
 alias music="mpv --loop-playlist --shuffle music/playlist.m3u"
 alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "state|to\ full|percentage"'
+alias mozcdictbox='/usr/lib/mozc/mozc_tool --mode=dictionary_tool'
+alias mozcwordreg='/usr/lib/mozc/mozc_tool --mode=word_register_dialog'
+alias mozccharpal='/usr/lib/mozc/mozc_tool --mode=character_palette'
 
 xhost +local:root > /dev/null 2>&1
 
