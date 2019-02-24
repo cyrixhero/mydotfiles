@@ -13272,6 +13272,16 @@ gipx	ギプ	名詞
 gipx	ぎぷ	名詞
 gimx	ギム	名詞
 gimx	ぎむ	名詞
+kux	クウ	名詞
+kux	くう	名詞
+kuix	クイ	名詞
+kuix	くい	名詞
+kutx	クッ	名詞
+kutx	くっ	名詞
+kunx	クヌ	名詞
+kunx	くぬ	名詞
+kngx	クン	名詞
+kngx	くん	名詞
 chox	ツォ	名詞
 chox	つぉ	名詞
 lex	レ	名詞
