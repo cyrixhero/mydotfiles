@@ -13532,6 +13532,12 @@ somx	ソム	名詞
 somx	そむ	名詞
 songx	ソン	名詞
 songx	そん	名詞
+jox	ゾ	名詞
+jox	ぞ	名詞
+joax	ゾア	名詞
+joax	ぞあ	名詞
+joex	ゾエ	名詞
+joex	ぞえ	名詞
 chox	ツォ	名詞
 chox	つぉ	名詞
 lex	レ	名詞
