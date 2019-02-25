@@ -13488,6 +13488,12 @@ sunx	スヌ	名詞
 sunx	すぬ	名詞
 sngx	スン	名詞
 sngx	すん	名詞
+jux	ズ	名詞
+jux	ず	名詞
+jux	ズウ	名詞
+jux	ずう	名詞
+junx	ズヌ	名詞
+junx	ずぬ	名詞
 chox	ツォ	名詞
 chox	つぉ	名詞
 lex	レ	名詞
