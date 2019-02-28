@@ -13910,5 +13910,7 @@ pitx	ピッ	名詞
 pitx	ぴっ	名詞
 pinx	ピヌ	名詞
 pinx	ぴぬ	名詞
+phix	ピヒィ	名詞
+phix	ぴひぃ	名詞
 lex	レ	名詞
 lex	れ	名詞
