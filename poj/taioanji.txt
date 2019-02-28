@@ -13924,5 +13924,15 @@ hmx	フム	名詞
 hmx	ふむ	名詞
 hngx	フン	名詞
 hngx	ふん	名詞
+bux	ブ	名詞
+bux	ぶ	名詞
+bux	ブウ	名詞
+bux	ぶう	名詞
+buix	ブイ	名詞
+buix	ぶい	名詞
+butx	ブッ	名詞
+butx	ぶっ	名詞
+bunx	ブヌ	名詞
+bunx	ぶぬ	名詞
 lex	レ	名詞
 lex	れ	名詞
