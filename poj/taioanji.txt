@@ -13912,5 +13912,17 @@ pinx	ピヌ	名詞
 pinx	ぴぬ	名詞
 phix	ピヒィ	名詞
 phix	ぴひぃ	名詞
+hux	フ	名詞
+hux	ふ	名詞
+huix	フイ	名詞
+huix	ふい	名詞
+hutx	フッ	名詞
+hutx	ふっ	名詞
+hunx	フヌ	名詞
+hunx	ふぬ	名詞
+hmx	フム	名詞
+hmx	ふむ	名詞
+hngx	フン	名詞
+hngx	ふん	名詞
 lex	レ	名詞
 lex	れ	名詞
