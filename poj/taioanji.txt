@@ -13934,5 +13934,17 @@ butx	ブッ	名詞
 butx	ぶっ	名詞
 bunx	ブヌ	名詞
 bunx	ぶぬ	名詞
+pux	プ	名詞
+pux	ぷ	名詞
+pux	プウ	名詞
+pux	ぷう	名詞
+puix	プイ	名詞
+puix	ぷい	名詞
+putx	プッ	名詞
+putx	ぷっ	名詞
+punx	プヌ	名詞
+punx	ぷぬ	名詞
+pngx	プン	名詞
+pngx	ぷん	名詞
 lex	レ	名詞
 lex	れ	名詞
