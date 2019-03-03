@@ -465,6 +465,8 @@ beg	糜	名詞
 beg	迷	名詞
 behf	beh	名詞
 behf	卜	名詞
+behf	ベェ	名詞
+behf	べぇ	名詞
 behk	be̍h	名詞
 behk	脈	名詞
 behk	襪	名詞
@@ -13959,6 +13961,8 @@ bex	ベ	名詞
 bex	べ	名詞
 bex	ベエ	名詞
 bex	べえ	名詞
+bex	ベェ	名詞
+bex	べぇ	名詞
 pex	ペ	名詞
 pex	ぺ	名詞
 pex	ペエ	名詞
