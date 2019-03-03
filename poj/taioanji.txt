@@ -5168,6 +5168,11 @@ katf	結	名詞
 katf	葛	名詞
 kati	ka-tī	名詞
 kati	katī	名詞
+kati	ガディ	名詞
+kati	がでぃ	名詞
+kati	カアティ	名詞
+kati	かあてぃ	名詞
+kati	加治	名詞
 kato	ka-to	名詞
 kato	kato	名詞
 kato	鉸刀	名詞
