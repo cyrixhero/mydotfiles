@@ -7222,6 +7222,11 @@ laite	lāi-té	名詞
 laite	lāité	名詞
 laite	內底	名詞
 laj	lā	名詞
+laj	ラ	名詞
+laj	ら	名詞
+laj	ラア	名詞
+laj	らあ	名詞
+laj	拉	名詞
 laj	撈	名詞
 lakf	lak	名詞
 lakf	槖	名詞
