@@ -1,5 +1,13 @@
-台員語假名かぷ台員羅馬字个參考表、字尾个X是卜打假名个時拵用え記號。
-參考表个源頭：http://taigi.fhl.net/dict/2.pdf
+な卜濫寫台員羅馬字、台員語假名參漢字、用ＧＯＯＧＬＥ日本語輸入法かあ字表着会使濫打字、字表しい文字檔たむ電腦かぷ手キ仔ろん会通。
+
+Install Google Japanese IME on your computer or phone, and add this words list into IME - https://github.com/cyrixhero/mydotfiles/blob/master/poj/taioanji.txt
+
+After install words list, choose "Latin Mode" for typing. Using "asdfghjkl" instead of "123456789" as the input "Tone", so that the number keys can be used to select between listed words.
+
+下脚しい台員語假名かぷ台員羅馬字个參考表、字尾个X是卜打假名个時拵用え記號。
+
+《台員羅馬字參漢字个字表來源：張天、THK https://github.com/hiankun/poj_ibus_table》
+《假名參考表个源頭：台日大辞典 http://taigi.fhl.net/dict/2.pdf》
 
 ax	ア
 ax	あ
