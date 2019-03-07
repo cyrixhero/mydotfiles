@@ -11308,7 +11308,16 @@ taibun	Tâibûn	名詞
 taibun	台文	名詞
 taichi	tāi-chì	名詞
 taichi	tāichì	名詞
+taichi	タイチイ	名詞
+taichi	たいちい	名詞
+taichi	代志	名詞
+taichi	代チイ	名詞
+taichi	代ちい	名詞
+taichi	タイ志	名詞
+taichi	たい志	名詞
 taichi	事志	名詞
+taichi	事チイ	名詞
+taichi	事ちい	名詞
 taichiong	tāi-chìong	名詞
 taichiong	tāichìong	名詞
 taichiong	大眾	名詞
@@ -13115,6 +13124,8 @@ hacker	ハッカー	名詞
 hacker	はっかー	名詞
 darknet	ダークネット	名詞
 darknet	だーくねっと	名詞
+namabilu	生ビール	名詞
+namabilu	生びーる	名詞
 anne	アヌネエ	名詞
 anne	あぬねえ	名詞
 anne	按ネエ	名詞
