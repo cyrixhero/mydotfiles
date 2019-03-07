@@ -1466,6 +1466,7 @@ chhiaua	超	名詞
 chhiaud	chhiàu	名詞
 chhiaud	笑	名詞
 chhiaug	chhiâu	名詞
+chhiaug	撨	名詞
 chhiaukoe	chhiau-kòe	名詞
 chhiaukoe	chhiaukòe	名詞
 chhiaukoe	超過	名詞
