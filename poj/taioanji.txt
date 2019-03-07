@@ -1838,6 +1838,8 @@ chiahchhailang	chia̍h-chhài-lâng	名詞
 chiahchhailang	chia̍hchhàilâng	名詞
 chiahchhailang	食菜人	名詞
 chiahf	chiah	名詞
+chiahf	チァ	名詞
+chiahf	ちぁ	名詞
 chiahf	即	名詞
 chiahf	卽	名詞
 chiahf	者	名詞
@@ -5408,8 +5410,6 @@ khahchoah	卡絕	名詞
 khahchoah	恰絕	名詞
 khahf	khah	名詞
 khahf	卡	名詞
-khahf	恰	名詞
-khahf	籱	名詞
 khaia	khai	名詞
 khaia	開	名詞
 khaid	khài	名詞
@@ -6847,6 +6847,8 @@ koetheng	kòethêng	名詞
 koetheng	過程	名詞
 kog	kô	名詞
 kohf	koh	名詞
+kohf	コヲ	名詞
+kohf	こを	名詞
 kohf	各	名詞
 kohf	復	名詞
 kohf	胳	名詞
@@ -8301,6 +8303,8 @@ nabo	若ボヲ	名詞
 nabo	若ぼを	名詞
 nachun	nā-chún	名詞
 nachun	nāchún	名詞
+nachun	ナアツヌ	名詞
+nachun	なあつぬ	名詞
 nachun	那凖	名詞
 nachun	那ツヌ	名詞
 nachun	那つぬ	名詞
