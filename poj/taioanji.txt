@@ -12443,8 +12443,12 @@ tiod	釣	名詞
 tiog	tiô	名詞
 tiog	潮	名詞
 tiohk	tio̍h	名詞
+tiohk	ティヲ	名詞
+tiohk	てぃを	名詞
 tiohk	着	名詞
 tioj	tiō	名詞
+tioj	ティヲ	名詞
+tioj	てぃを	名詞
 tioj	着	名詞
 tioj	趙	名詞
 tiokf	tiok	名詞
