@@ -355,6 +355,8 @@ baig	埋	名詞
 baig	楣	名詞
 baig	眉	名詞
 baij	bāi	名詞
+baij	バイ	名詞
+baij	ばい	名詞
 baij	覓	名詞
 baij	覔	名詞
 bais	bái	名詞
@@ -7368,6 +7370,8 @@ leh	レ	名詞
 leh	レェ	名詞
 leh	れぇ	名詞
 lehf	leh	名詞
+lehf	レェ	名詞
+lehf	れぇ	名詞
 lehf	塊	名詞
 lehk	le̍h	名詞
 lehk	笠	名詞
@@ -8070,6 +8074,8 @@ mahoan	麻煩	名詞
 maid	mài	名詞
 maid	勿	名詞
 maij	māi	名詞
+maij	マイ	名詞
+maij	まい	名詞
 maij	昧	名詞
 maij	眛	名詞
 maij	覓	名詞
@@ -8079,6 +8085,8 @@ maij	邁	名詞
 mais	mái	名詞
 mais	買	名詞
 maj	mā	名詞
+maj	マア	名詞
+maj	まあ	名詞
 maj	嗎	名詞
 maj	罵	名詞
 maj	駡	名詞
