@@ -649,6 +649,8 @@ boes	bóe	名詞
 boes	尾	名詞
 boes	買	名詞
 bog	bô	名詞
+bog	ボヲ	名詞
+bog	ぼを	名詞
 bog	无	名詞
 bog	無	名詞
 bohk	bo̍h	名詞
@@ -2822,10 +2824,12 @@ es	矮	名詞
 esai	ē sái	名詞
 esai	ē-sái	名詞
 esai	ēsái	名詞
+esai	会使	名詞
 esai	會使	名詞
 etang	ē tàng	名詞
 etang	ē-tàng	名詞
 etang	ētàng	名詞
+etang	会凍	名詞
 etang	會凍	名詞
 etang	能凍	名詞
 ete	ē-té	名詞
@@ -7370,6 +7374,7 @@ leh	レ	名詞
 leh	レェ	名詞
 leh	れぇ	名詞
 lehf	leh	名詞
+lehf	レ	名詞
 lehf	レェ	名詞
 lehf	れぇ	名詞
 lehf	塊	名詞
@@ -7941,6 +7946,8 @@ longj	lōng	名詞
 longj	弄	名詞
 longj	浪	名詞
 longs	lóng	名詞
+longs	ロン	名詞
+longs	ろん	名詞
 longs	朗	名詞
 longs	籠	名詞
 longsan	lông-sán	名詞
@@ -11433,6 +11440,8 @@ tama	擔	名詞
 tama	耽	名詞
 tama	躭	名詞
 tamd	tàm	名詞
+tamd	タム	名詞
+tamd	たむ	名詞
 tamd	朕	名詞
 tamg	tâm	名詞
 tamg	淡	名詞
@@ -12238,6 +12247,8 @@ tiama	砧	名詞
 tiambi	tiàm-bī	名詞
 tiambi	tiàmbī	名詞
 tiamd	tiàm	名詞
+tiamd	ティァム	名詞
+tiamd	てぃぁむ	名詞
 tiamd	坫	名詞
 tiamd	店	名詞
 tiamd	玷	名詞
@@ -13062,6 +13073,8 @@ uiti	位置	名詞
 uiti	位置	名詞
 Uj	Ū	名詞
 uj	ū	名詞
+uj	ウウ	名詞
+uj	うう	名詞
 uj	有	名詞
 uj	譽	名詞
 uj	豫	名詞
