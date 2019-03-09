@@ -3871,6 +3871,7 @@ hoehf	血	名詞
 hoehk	hoe̍h	名詞
 hoej	hōe	名詞
 hoej	匯	名詞
+hoej	会	名詞
 hoej	會	名詞
 hoej	薈	名詞
 hoej	蟹	名詞
@@ -10294,6 +10295,7 @@ siahk	sia̍h	名詞
 siahk	席	名詞
 siahoe	siā-hōe	名詞
 siahoe	siāhōe	名詞
+siahoe	社会	名詞
 siahoe	社會	名詞
 siaj	siā	名詞
 siaj	射	名詞
