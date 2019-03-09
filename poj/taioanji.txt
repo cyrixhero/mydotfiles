@@ -11435,6 +11435,8 @@ takk	独	名詞
 takk	獨	名詞
 takk	逐	名詞
 tama	tam	名詞
+tama	タム	名詞
+tama	たむ	名詞
 tama	担	名詞
 tama	擔	名詞
 tama	耽	名詞
@@ -12476,6 +12478,8 @@ tihui	tì-hūi	名詞
 tihui	tìhūi	名詞
 tihui	智慧	名詞
 tij	tī	名詞
+tij	ティ	名詞
+tij	てぃ	名詞
 tij	值	名詞
 tij	在	名詞
 tij	地	名詞
@@ -13151,6 +13155,8 @@ darknet	ダークネット	名詞
 darknet	だーくねっと	名詞
 namabilu	生ビール	名詞
 namabilu	生びーる	名詞
+youtube	ユーチューブ	名詞
+youtube	ゆーちゅーぶ	名詞
 anne	アヌネエ	名詞
 anne	あぬねえ	名詞
 anne	按ネエ	名詞
