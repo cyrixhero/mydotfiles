@@ -239,6 +239,8 @@ anns	áⁿ	名詞
 anns	áⁿ	名詞
 Ans	Án	名詞
 ans	án	名詞
+ans	アヌ	名詞
+ans	あぬ	名詞
 ans	咱	名詞
 ans	咹	名詞
 ans	安	名詞
@@ -5200,6 +5202,8 @@ kauchai	kàu-châi	名詞
 kauchai	kàuchâi	名詞
 kauchai	教材	名詞
 kaud	kàu	名詞
+kaud	カウ	名詞
+kaud	かう	名詞
 kaud	到	名詞
 kaud	敎	名詞
 kaud	教	名詞
@@ -8159,9 +8163,13 @@ mis	mí	名詞
 mis	彌	名詞
 Mj	M̄	名詞
 mj	m̄	名詞
+mj	ム̄	名詞
+mj	む̄	名詞
 mj	不	名詞
 mkoh	m̄-koh	名詞
 mkoh	m̄koh	名詞
+mkoh	ムコヲ	名詞
+mkoh	むこを	名詞
 mkoh	不閣	名詞
 ml	m̌	名詞
 mna	m̄-nā	名詞
@@ -8361,6 +8369,8 @@ naus	náu	名詞
 naus	惱	名詞
 naus	腦	名詞
 nea	ne	名詞
+nea	ネエ	名詞
+nea	ねえ	名詞
 nea	呢	名詞
 ned	nè	名詞
 nehf	neh	名詞
