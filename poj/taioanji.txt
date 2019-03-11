@@ -4395,7 +4395,14 @@ ikeng	í-keng	名詞
 ikeng	íkeng	名詞
 ikeng	イイキェン	名詞
 ikeng	いいきぇん	名詞
+ikeng	イイ經	名詞
+ikeng	いい經	名詞
+ikeng	已キェン	名詞
+ikeng	已きぇん	名詞
 ikeng	已經	名詞
+ikeng	以キェン	名詞
+ikeng	以きぇん	名詞
+ikeng	以經	名詞
 ikian	ì-kiàn	名詞
 ikian	ìkiàn	名詞
 ikian	意見	名詞
