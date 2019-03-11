@@ -4393,6 +4393,8 @@ ij	易	名詞
 ij	異	名詞
 ikeng	í-keng	名詞
 ikeng	íkeng	名詞
+ikeng	イイキェン	名詞
+ikeng	いいきぇん	名詞
 ikeng	已經	名詞
 ikian	ì-kiàn	名詞
 ikian	ìkiàn	名詞
@@ -4585,6 +4587,8 @@ ipl	ĭm	名詞
 Is	Í	名詞
 is	í	名詞
 is	í	名詞
+is	イイ	名詞
+is	いい	名詞
 is	以	名詞
 is	倚	名詞
 is	已	名詞
@@ -5315,6 +5319,8 @@ kelang	Kelâng	名詞
 kelang	基隆	名詞
 kelang	鷄籠	名詞
 kenga	keng	名詞
+kenga	キェン	名詞
+kenga	きぇん	名詞
 kenga	京	名詞
 kenga	供	名詞
 kenga	宮	名詞
