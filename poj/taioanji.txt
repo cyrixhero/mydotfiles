@@ -966,8 +966,9 @@ chehf	仄	名詞
 chehk	che̍h	名詞
 chehk	絕	名詞
 chej	chē	名詞
+chej	ツェ	名詞
+chej	つぇ	名詞
 chej	坐	名詞
-chej	多	名詞
 chej	多	名詞
 chej	寨	名詞
 chej	罪	名詞
@@ -2380,6 +2381,8 @@ choehf	節	名詞
 choehk	cho̍eh	名詞
 choehk	截	名詞
 choej	chōe	名詞
+choej	ツォエ	名詞
+choej	つぉえ	名詞
 choej	多	名詞
 choej	罪	名詞
 choekin	chòe-kīn	名詞
@@ -8127,6 +8130,14 @@ mas	má	名詞
 mas	媽	名詞
 mas	碼	名詞
 mas	馬	名詞
+masi	māsī	名詞
+masi	マアシイ	名詞
+masi	まあしい	名詞
+masi	嗎シイ	名詞
+masi	嗎しい	名詞
+masi	マア是	名詞
+masi	まあ是	名詞
+masi	嗎是	名詞
 maug	mâu	名詞
 maug	矛	名詞
 maug	茅	名詞
