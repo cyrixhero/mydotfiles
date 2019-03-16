@@ -4979,6 +4979,10 @@ kad	較	名詞
 kad	駕	名詞
 kag	kâ	名詞
 kahf	kah	名詞
+kahf	カ	名詞
+kahf	か	名詞
+kahf	カァ	名詞
+kahf	かぁ	名詞
 kahf	到	名詞
 kahf	甲	名詞
 kahf	較	名詞
@@ -5167,6 +5171,15 @@ kangtiunn	工場	名詞
 kanna	kaⁿ	名詞
 kanna	kan-na	名詞
 kanna	kanna	名詞
+kanna	カヌナア	名詞
+kanna	かぬなあ	名詞
+kanna	干ナア	名詞
+kanna	干なあ	名詞
+kanna	カヌ但	名詞
+kanna	かぬ但	名詞
+kanna	干但	名詞
+kanna	カヌ乾	名詞
+kanna	かぬ乾	名詞
 kanna	干乾	名詞
 kanna	干焦	名詞
 kanna	干礁	名詞
@@ -5198,6 +5211,10 @@ kantann	干乾	名詞
 kantann	干焦	名詞
 kantann	干礁	名詞
 kapf	kap	名詞
+kapf	カ	名詞
+kapf	か	名詞
+kapf	カァ	名詞
+kapf	かぁ	名詞
 kapf	合	名詞
 kapf	甲	名詞
 kapf	蛤	名詞
@@ -13383,7 +13400,9 @@ oex	をえ	名詞
 kkx	カ	名詞
 kkx	か	名詞
 kax	カア	名詞
+kax	カァ	名詞
 kax	かあ	名詞
+kax	かぁ	名詞
 kaix	カイ	名詞
 kaix	かい	名詞
 kaux	カウ	名詞
