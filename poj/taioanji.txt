@@ -3332,6 +3332,8 @@ hamhai	hām-hāi	名詞
 hamhai	hāmhāi	名詞
 hamhai	陷害	名詞
 hamj	hām	名詞
+hamj	ハム	名詞
+hamj	はむ	名詞
 hamj	含	名詞
 hamj	憾	名詞
 hamj	陷	名詞
@@ -4047,6 +4049,15 @@ hos	hó	名詞
 hos	ホヲ	名詞
 hos	ほを	名詞
 hos	好	名詞
+hose	hó-sè	名詞
+hose	hósè	名詞
+hose	ホヲセエ	名詞
+hose	ほをせえ	名詞
+hose	好セエ	名詞
+hose	好せえ	名詞
+hose	ホヲ世	名詞
+hose	ほを世	名詞
+hose	好世	名詞
 houa	ho͘	名詞
 houa	呼	名詞
 houd	hò͘	名詞
@@ -6929,9 +6940,11 @@ kojin	kòjîn	名詞
 kojin	個人	名詞
 kokbin	kok-bîn	名詞
 kokbin	kokbîn	名詞
+kokbin	囯民	名詞
 kokbin	國民	名詞
 kokche	kok-chè	名詞
 kokche	kokchè	名詞
+kokche	囯際	名詞
 kokche	國際	名詞
 kokf	kok	名詞
 kokf	各	名詞
@@ -6945,6 +6958,7 @@ kokf	郭	名詞
 kokf	閣	名詞
 kokhong	kok-hông	名詞
 kokhong	kokhông	名詞
+kokhong	囯防	名詞
 kokhong	國防	名詞
 kokip	ko-kip	名詞
 kokip	kokip	名詞
@@ -6952,6 +6966,7 @@ kokip	高級	名詞
 kokk	ko̍k	名詞
 kokka	kok-ka	名詞
 kokka	kokka	名詞
+kokka	囯家	名詞
 kokka	國家	名詞
 konga	kong	名詞
 konga	光	名詞
@@ -7012,6 +7027,9 @@ kongkiong	公共	名詞
 kongkou	kóng-kó͘	名詞
 kongkou	kóngkó͘	名詞
 kongkou	講古	名詞
+konghoat	kóng-hoat	名詞
+konghoat	kónghoat	名詞
+konghoat	講法	名詞
 kongleng	kong-lêng	名詞
 kongleng	konglêng	名詞
 kongleng	功能	名詞
@@ -8011,6 +8029,14 @@ longs	ロン	名詞
 longs	ろん	名詞
 longs	朗	名詞
 longs	籠	名詞
+longsi	lóng-sī	名詞
+longsi	lóngsī	名詞
+longsi	ロンシイ	名詞
+longsi	ろんしい	名詞
+longsi	朗シイ	名詞
+longsi	朗しい	名詞
+longsi	ロン是	名詞
+longsi	ろん是	名詞
 longsan	lông-sán	名詞
 longsan	lôngsán	名詞
 longsan	農產	名詞
@@ -12695,6 +12721,7 @@ tiongj	杖	名詞
 tiongj	重	名詞
 tiongkok	Tiong-kok	名詞
 tiongkok	Tiongkok	名詞
+tiongkok	中囯	名詞
 tiongkok	中國	名詞
 tionglan	tiōng-lân	名詞
 tionglan	tiōnglân	名詞
