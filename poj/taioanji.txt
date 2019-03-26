@@ -1438,6 +1438,9 @@ chhiammia	chhiam-miâ	名詞
 chhiammia	chhiammiâ	名詞
 chhiammia	簽名	名詞
 chhiams	chhiám	名詞
+chhiams	懺	名詞
+chhiams	鐟	名詞
+chhiams	鐕	名詞
 chhiana	chhian	名詞
 chhiana	仟	名詞
 chhiana	千	名詞
@@ -5815,6 +5818,7 @@ khid	器	名詞
 khid	棄	名詞
 khid	气	名詞
 khid	氣	名詞
+khid	気	名詞
 khid	汽	名詞
 khig	khî	名詞
 khig	蜞	名詞
@@ -6097,6 +6101,9 @@ khotheng	khòng-thêng	名詞
 khotheng	khòthêng	名詞
 khotheng	課程	名詞
 khoua	kho͘	名詞
+khoua	コホォ	名詞
+khoua	こほぉ	名詞
+khoua	元	名詞
 khoua	呼	名詞
 khoua	篐	名詞
 khoud	khò͘	名詞
