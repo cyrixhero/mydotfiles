@@ -944,6 +944,7 @@ chauj	找	名詞
 chaus	cháu	名詞
 chaus	走	名詞
 chea	che	名詞
+chea	제	名詞
 chea	儕	名詞
 chea	劑	名詞
 chea	渣	名詞
@@ -2638,6 +2639,7 @@ e;	e̋	名詞
 Ea	E	名詞
 ea	e	名詞
 ea	e	名詞
+ea	ㅔ	名詞
 ea	挨	名詞
 ea	鍋	名詞
 Ed	È	名詞
@@ -2647,6 +2649,7 @@ ed	穢	名詞
 ed	裔	名詞
 Eg	Ê	名詞
 eg	ê	名詞
+eg	ㅔ	名詞
 eg	个	名詞
 eg	兮	名詞
 eg	箇	名詞
@@ -5090,6 +5093,7 @@ kaitoann	階段	名詞
 kaj	kā	名詞
 kaj	かあ	名詞
 kaj	カア	名詞
+kaj	각	名詞
 kaj	共	名詞
 kaj	咬	名詞
 kakf	kak	名詞
@@ -7348,6 +7352,9 @@ laichai	lāi-châi	名詞
 laichai	lāichâi	名詞
 laichai	內才	名詞
 laig	lâi	名詞
+laig	らい	名詞
+laig	ライ	名詞
+laig	라ㅣ	名詞
 laig	來	名詞
 laig	梨	名詞
 laig	萊	名詞
@@ -7522,6 +7529,7 @@ lehf	leh	名詞
 lehf	レ	名詞
 lehf	レェ	名詞
 lehf	れぇ	名詞
+lehf	렣	名詞
 lehf	塊	名詞
 lehk	le̍h	名詞
 lehk	笠	名詞
@@ -8250,6 +8258,7 @@ mais	買	名詞
 maj	mā	名詞
 maj	マア	名詞
 maj	まあ	名詞
+maj	막	名詞
 maj	嗎	名詞
 maj	罵	名詞
 maj	駡	名詞
@@ -8258,12 +8267,15 @@ mas	媽	名詞
 mas	碼	名詞
 mas	馬	名詞
 masi	māsī	名詞
+masi	막식	名詞
 masi	マアシイ	名詞
 masi	まあしい	名詞
 masi	嗎シイ	名詞
 masi	嗎しい	名詞
+masi	嗎식	名詞
 masi	マア是	名詞
 masi	まあ是	名詞
+masi	막是	名詞
 masi	嗎是	名詞
 maug	mâu	名詞
 maug	矛	名詞
@@ -10780,10 +10792,8 @@ sihf	sih	名詞
 sihf	薛	名詞
 sihk	si̍h	名詞
 sihk	蝕	名詞
-sihna	sih-nà	名詞
 sihna	sihnà	名詞
 sihna	薛那	名詞
-sihnah	sih-nah	名詞
 sihnah	sihnah	名詞
 sihnah	薛那	名詞
 sihnna	sihⁿ	名詞
@@ -10793,6 +10803,7 @@ sij	シ	名詞
 sij	し	名詞
 sij	シイ	名詞
 sij	しい	名詞
+sij	식	名詞
 sij	侍	名詞
 sij	叙	名詞
 sij	寺	名詞
@@ -10806,7 +10817,6 @@ sij	視	名詞
 sij	緒	名詞
 sij	豎	名詞
 sij	逝	名詞
-sikan	sî-kan	名詞
 sikan	sîkan	名詞
 sikan	時間	名詞
 sima	sim	名詞
@@ -10814,7 +10824,6 @@ sima	參	名詞
 sima	心	名詞
 sima	森	名詞
 sima	芯	名詞
-simchong	sim-chōng	名詞
 simchong	simchōng	名詞
 simchong	心臟	名詞
 simd	sìm	名詞
@@ -10827,19 +10836,14 @@ simg	蟳	名詞
 simj	sīm	名詞
 simj	侺	名詞
 simj	甚	名詞
-simkoann	sim-koaⁿ	名詞
 simkoann	simkoaⁿ	名詞
 simkoann	心肝	名詞
-simkoannthau	sim-koaⁿ-thâu	名詞
 simkoannthau	simkoaⁿthâu	名詞
 simkoannthau	心肝頭	名詞
-simleng	sim-lêng	名詞
 simleng	simlêng	名詞
 simleng	心靈	名詞
-simli	sim-lí	名詞
 simli	simlí	名詞
 simli	心理	名詞
-simmih	sím-mi̍h	名詞
 simmih	símmi̍h	名詞
 sims	sím	名詞
 sims	審	名詞
@@ -13340,13 +13344,13 @@ uisng	ūisng	名詞
 uisng	胃酸	名詞
 uiti	ūitì	名詞
 uiti	位置	名詞
-uiti	位置	名詞
 Uj	Ū	名詞
 uj	ū	名詞
 uj	ウ	名詞
 uj	う	名詞
 uj	ウウ	名詞
 uj	うう	名詞
+uj	ㅜ	名詞
 uj	有	名詞
 uj	譽	名詞
 uj	豫	名詞
@@ -13526,6 +13530,7 @@ unx	ウヌ	名詞
 unx	うぬ	名詞
 ex	エ	名詞
 ex	え	名詞
+ex	ㅔ	名詞
 engx	エン	名詞
 engx	えん	名詞
 oux	オ	名詞
