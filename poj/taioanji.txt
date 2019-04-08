@@ -13239,8 +13239,6 @@ ui;	űi	名詞
 uia	ui	名詞
 uia	威	名詞
 uia	衣	名詞
-uiann	ū iáⁿ	名詞
-uiann	ū-iáⁿ	名詞
 uiann	ūiáⁿ	名詞
 uiann	有影	名詞
 Uid	Ùi	名詞
@@ -13313,8 +13311,6 @@ Uj	Ū	名詞
 uj	ū	名詞
 uj	ウ	名詞
 uj	う	名詞
-uj	ウウ	名詞
-uj	うう	名詞
 uj	ㅜ	名詞
 uj	有	名詞
 uj	譽	名詞
