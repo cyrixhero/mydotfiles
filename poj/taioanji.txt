@@ -78,7 +78,6 @@ aid	あい	名詞
 aid	アイ	名詞
 aid	愛	名詞
 aid	曖	名詞
-aid	爱	名詞
 aid	隘	名詞
 Aig	Âi	名詞
 aig	âi	名詞
@@ -162,13 +161,10 @@ annoa	按のあ	名詞
 anna	ánná	名詞
 anna	アヌナア	名詞
 anna	あぬなあ	名詞
-anna	按ナ	名詞
-anna	按な	名詞
 anna	按ナア	名詞
 anna	按なあ	名詞
 anna	アヌ那	名詞
 anna	あぬ那	名詞
-anna	按나	名詞
 anna	按那	名詞
 And	Àn	名詞
 and	àn	名詞
@@ -456,7 +452,6 @@ beg	糜	名詞
 beg	迷	名詞
 behf	beh	名詞
 behf	卜	名詞
-behf	뼇	名詞
 behf	ベェ	名詞
 behf	べぇ	名詞
 behk	be̍h	名詞
@@ -2057,8 +2052,6 @@ chitk	一	名詞
 chitk	嫉	名詞
 chitk	疾	名詞
 chitma	chitmá	名詞
-chitma	只ま	名詞
-chitma	只マ	名詞
 chitma	只馬	名詞
 chito	chítō	名詞
 chito	指導	名詞
@@ -3738,8 +3731,9 @@ houg	糊	名詞
 houg	胡	名詞
 houhnna	ho͘hⁿ	名詞
 houj	hō͘	名詞
+houj	ホオ	名詞
+houj	ほお	名詞
 houj	허	名詞
-houj	ホ	名詞
 houj	乎	名詞
 houj	互	名詞
 houj	厚	名詞
@@ -6636,6 +6630,7 @@ lag	蜊	名詞
 lag	鯪	名詞
 lahf	lah	名詞
 lahf	ラァ	名詞
+lahf	らぁ	名詞
 lahf	啦	名詞
 lahk	la̍h	名詞
 lahk	曆	名詞
@@ -6649,7 +6644,6 @@ laichai	內才	名詞
 laig	lâi	名詞
 laig	らい	名詞
 laig	ライ	名詞
-laig	라ㅣ	名詞
 laig	來	名詞
 laig	梨	名詞
 laig	萊	名詞
@@ -7487,7 +7481,6 @@ maid	勿	名詞
 maij	māi	名詞
 maij	マイ	名詞
 maij	まい	名詞
-maij	마ㅣ	名詞
 maij	昧	名詞
 maij	眛	名詞
 maij	覓	名詞
@@ -7499,7 +7492,6 @@ mais	買	名詞
 maj	mā	名詞
 maj	マア	名詞
 maj	まあ	名詞
-maj	막	名詞
 maj	嗎	名詞
 maj	罵	名詞
 maj	駡	名詞
@@ -7508,16 +7500,13 @@ mas	媽	名詞
 mas	碼	名詞
 mas	馬	名詞
 masi	māsī	名詞
-masi	막식	名詞
+masi	嗎是	名詞
 masi	マアシイ	名詞
 masi	まあしい	名詞
 masi	嗎シイ	名詞
 masi	嗎しい	名詞
-masi	嗎식	名詞
 masi	マア是	名詞
 masi	まあ是	名詞
-masi	막是	名詞
-masi	嗎是	名詞
 maug	mâu	名詞
 maug	矛	名詞
 maug	茅	名詞
@@ -7722,17 +7711,12 @@ nais	nái	名詞
 nais	乃	名詞
 nais	奶	名詞
 naj	nā	名詞
-naj	ナ	名詞
-naj	な	名詞
-naj	낙	名詞
 naj	ナア	名詞
 naj	なあ	名詞
 naj	但	名詞
 naj	若	名詞
 naj	那	名詞
 nas	ná	名詞
-nas	ナ	名詞
-nas	な	名詞
 nas	ナア	名詞
 nas	なあ	名詞
 nas	旦	名詞
@@ -9861,8 +9845,6 @@ sihnah	薛那	名詞
 sihnna	sihⁿ	名詞
 sihnna	薛	名詞
 sij	sī	名詞
-sij	シ	名詞
-sij	し	名詞
 sij	シイ	名詞
 sij	しい	名詞
 sij	식	名詞
@@ -10670,7 +10652,6 @@ tamd	tàm	名詞
 tamd	タム	名詞
 tamd	たむ	名詞
 tamd	담	名詞
-tamd	朕	名詞
 tamg	tâm	名詞
 tamg	淡	名詞
 tamg	談	名詞
