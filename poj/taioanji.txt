@@ -154,9 +154,6 @@ ana	an	名詞
 ana	安	名詞
 anchoann	ánchóaⁿ	名詞
 anchoann	按盞	名詞
-annoa	ánnóa	名詞
-annoa	按ノア	名詞
-annoa	按のあ	名詞
 anna	ánná	名詞
 anna	按那	名詞
 And	Àn	名詞
@@ -2417,8 +2414,6 @@ ehnnk	e̍hⁿ	名詞
 ehnnl	ĕⁿ	名詞
 Ej	Ē	名詞
 ej	ē	名詞
-ej	え	名詞
-ej	エ	名詞
 ej	下	名詞
 ej	會	名詞
 ej	能	名詞
@@ -6202,6 +6197,7 @@ kohu	閣有	名詞
 kohiong	Kohiông	名詞
 kohiong	高雄	名詞
 koj	kō	名詞
+koj	膏	名詞
 kojin	kòjîn	名詞
 kojin	個人	名詞
 kokbin	kokbîn	名詞
