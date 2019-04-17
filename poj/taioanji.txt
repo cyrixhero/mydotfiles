@@ -2643,13 +2643,11 @@ gesut	gēsu̍t	名詞
 gesut	藝術	名詞
 giag	giâ	名詞
 giag	夯	名詞
+giag	舉	名詞
+giag	擧	名詞
 giag	鵝	名詞
 giahf	giah	名詞
 giahk	gia̍h	名詞
-giahk	夯	名詞
-giahk	擧	名詞
-giahk	攑	名詞
-giahk	㩮	名詞
 giahk	舉	名詞
 giahk	額	名詞
 giamg	giâm	名詞
@@ -5503,12 +5501,7 @@ kiad	寄	名詞
 kiag	kiâ	名詞
 kiahf	kiah	名詞
 kiahk	kia̍h	名詞
-kiahk	夯	名詞
-kiahk	屐	名詞
 kiahk	擧	名詞
-kiahk	攑	名詞
-kiahk	㩮	名詞
-kiahk	舉	名詞
 kiaj	kiā	名詞
 kiaj	崎	名詞
 kiakf	kiak	名詞
@@ -6162,6 +6155,10 @@ kohiong	Kohiông	名詞
 kohiong	高雄	名詞
 koj	kō	名詞
 koj	戈	名詞
+kolaikokhi	kōlâikōkhì	名詞
+kolaikokhi	戈來戈去	名詞
+kolohkhi	kōlo̍hkhì	名詞
+kolohkhi	戈落去	名詞
 kojin	kòjîn	名詞
 kojin	個人	名詞
 kokbin	kokbîn	名詞
@@ -7172,6 +7169,8 @@ lous	滷	名詞
 lous	虜	名詞
 lous	魯	名詞
 lous	鹵	名詞
+loubahpng	ló͘bahpn̄g	名詞
+loubahpng	魯肉飯	名詞
 lua	lu	名詞
 lua	揄	名詞
 lud	lù	名詞
@@ -11851,6 +11850,8 @@ twitter	twitter	名詞
 twitter	ツイッター	名詞
 youtube	youtube	名詞
 youtube	ユーチューブ	名詞
+sasimih	sasīmih	名詞
+sasimih	沙示乜	名詞
 sushi	sushi	名詞
 sushi	寿司	名詞
 ichipon	ichipon	名詞
