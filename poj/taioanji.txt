@@ -1898,6 +1898,7 @@ chinna	晶	名詞
 chinna	爭	名詞
 chinna	精	名詞
 chinnd	chìⁿ	名詞
+chinnd	炙	名詞
 chinnd	箭	名詞
 chinnd	諍	名詞
 chinng	chîⁿ	名詞
@@ -2510,6 +2511,7 @@ engj	詠	名詞
 engkai	engkai	名詞
 engkai	èngkai	名詞
 engkai	應該	名詞
+engkai	應皆	名詞
 engkok	Engkok	名詞
 engkok	英國	名詞
 engl	ĕng	名詞
