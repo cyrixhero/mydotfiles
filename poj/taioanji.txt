@@ -2847,6 +2847,8 @@ gongg	昂	名詞
 gongj	gōng	名詞
 gongj	怣	名詞
 gongj	戇	名詞
+gongnau	gōngnáu	名詞
+gongnau	怣腦	名詞
 gongngiah	gôngngia̍h	名詞
 gongngiah	昂愕	名詞
 goug	gô͘	名詞
@@ -4853,6 +4855,12 @@ khaaukin	khaāukin	名詞
 khaaukin	脚後筋	名詞
 khaaukun	khaāukun	名詞
 khaaukun	脚後筋	名詞
+khachhng	khachhng	名詞
+khachhng	脚川	名詞
+khachhngkhang	khachhngkhang	名詞
+khachhngkhang	脚川空	名詞
+khachhngoe	khachhngōe	名詞
+khachhngoe	脚川話	名詞
 khad	khà	名詞
 khad	敲	名詞
 khahchoah	khahchoa̍h	名詞
@@ -7108,6 +7116,7 @@ longchhoan	lôngchhoan	名詞
 longchhoan	農村	名詞
 longd	lòng	名詞
 longd	弄	名詞
+longd	撞	名詞
 longg	lông	名詞
 longg	囊	名詞
 longg	廊	名詞
