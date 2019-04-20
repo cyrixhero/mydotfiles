@@ -5997,8 +5997,6 @@ koad	過	名詞
 koag	koâ	名詞
 koahf	koah	名詞
 koahf	刈	名詞
-koahf	刈	名詞
-koahf	割	名詞
 koahf	割	名詞
 koahf	葛	名詞
 koaho	kòahō	名詞
