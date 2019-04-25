@@ -1450,7 +1450,6 @@ chhis	处	名詞
 chhis	處	名詞
 chhis	鼠	名詞
 chhitf	chhit	名詞
-chhitf	〧	名詞
 chhitf	七	名詞
 chhitf	拭	名詞
 chhitf	柒	名詞
@@ -2859,7 +2858,6 @@ goug	悞	名詞
 goug	梧	名詞
 goug	蜈	名詞
 gouj	gō͘	名詞
-gouj	〤	名詞
 gouj	五	名詞
 gouj	悟	名詞
 gouj	誤	名詞
@@ -7700,7 +7698,6 @@ nngg	nn̂g	名詞
 nngg	榔	名詞
 nngg	郎	名詞
 nngj	nn̄g	名詞
-nngj	〢	名詞
 nngj	两	名詞
 nngj	二	名詞
 nngj	兩	名詞
@@ -8077,7 +8074,6 @@ pas	pá	名詞
 pas	把	名詞
 pas	飽	名詞
 patf	pat	名詞
-patf	〨	名詞
 patf	八	名詞
 patf	捌	名詞
 patf	識	名詞
@@ -9034,7 +9030,6 @@ sangiap	sángia̍p	名詞
 sangiap	產業	名詞
 sangs	sáng	名詞
 sanna	saⁿ	名詞
-sanna	〣	名詞
 sanna	三	名詞
 sanna	叁	名詞
 sanna	參	名詞
