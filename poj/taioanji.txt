@@ -3155,6 +3155,7 @@ hia	稀	名詞
 hia	羲	名詞
 hia	虛	名詞
 hiaa	hia	名詞
+hiaa	ヒア	名詞
 hiaa	靴	名詞
 hiahf	hiah	名詞
 hiahf	靴	名詞
@@ -6464,6 +6465,8 @@ laig	梨	名詞
 laig	萊	名詞
 laigoan	lâigoân	名詞
 laigoan	來源	名詞
+laikhi	lâikhì	名詞
+laikhi	來去	名詞
 laihok	lāiho̍k	名詞
 laihok	內服	名詞
 laij	lāi	名詞
