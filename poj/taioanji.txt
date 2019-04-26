@@ -11310,6 +11310,7 @@ tiongj	杖	名詞
 tiongj	重	名詞
 tiongkok	Tiongkok	名詞
 tiongkok	中國	名詞
+tiongkok	中囯	名詞
 tionglan	tiōnglân	名詞
 tionglan	重難	名詞
 tionglek	tiōngle̍k	名詞
