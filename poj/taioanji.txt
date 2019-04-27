@@ -30,6 +30,7 @@
 a;	a̋	名詞
 Aa	A	名詞
 aa	a	名詞
+aa	ア	名詞
 aa	丫	名詞
 aa	亜	名詞
 aa	亞	名詞
@@ -139,8 +140,12 @@ amj	奄	名詞
 amj	頷	名詞
 amkun	āmkún	名詞
 amkun	頷滾	名詞
+amkongchiau	àmkongchiáu	名詞
+amkongchiau	暗光鳥	名詞
 ampng	àmpn̄g	名詞
 ampng	暗飯	名詞
+amsi	àmsî	名詞
+amsi	暗時	名詞
 amtng	àmtǹg	名詞
 amtng	暗頓	名詞
 aml	ăm	名詞
@@ -1826,6 +1831,11 @@ chiaupi	樵備	名詞
 chiaus	chiáu	名詞
 chiaus	沼	名詞
 chiaus	鳥	名詞
+chiaua	chiáuá	名詞
+chiaua	鳥仔	名詞
+chiauasiann	chiáuásiaⁿ	名詞
+chiauasiann	鳥仔声	名詞
+chiauasiann	鳥仔聲	名詞
 chichhi	chichhî	名詞
 chichhi	支持	名詞
 chid	chì	名詞
@@ -2066,6 +2076,8 @@ chnga	粧	名詞
 chnga	莊	名詞
 chnga	裝	名詞
 chnga	贓	名詞
+chngkha	chngkha	名詞
+chngkha	庄脚	名詞
 chngd	chǹg	名詞
 chngd	鑚	名詞
 chngd	鑽	名詞
@@ -4722,6 +4734,8 @@ kea	稽	名詞
 kea	街	名詞
 kea	雞	名詞
 kea	鷄	名詞
+keakiann	keákiáⁿ	名詞
+keakiann	鷄仔子	名詞
 kebou	kèbô͘	名詞
 kebou	計謀	名詞
 kechhek	kèchhek	名詞
@@ -10062,6 +10076,8 @@ sud	恕	名詞
 sud	泗	名詞
 sud	肆	名詞
 sud	賜	名詞
+susi	sùsī	名詞
+susi	四示	名詞
 sug	sû	名詞
 sug	嗣	名詞
 sug	殊	名詞
@@ -11033,6 +11049,9 @@ tiamj	沾	名詞
 tiams	tiám	名詞
 tiams	点	名詞
 tiams	點	名詞
+tiamcheng	tiámcheng	名詞
+tiamcheng	點鐘	名詞
+tiamcheng	点鐘	名詞
 tiana	tian	名詞
 tiana	傎	名詞
 tiana	巓	名詞
@@ -11097,6 +11116,8 @@ tianj	甸	名詞
 tianj	電	名詞
 tianj	電	名詞
 tianj	靛	名詞
+tianhoechua	tiānhóechuá	名詞
+tianhoechua	電火珠仔	名詞
 tiankek	tiānke̍k	名詞
 tiankek	電極	名詞
 tiankhi	tiānkhì	名詞
@@ -11784,6 +11805,7 @@ uiti	ūitì	名詞
 uiti	位置	名詞
 Uj	Ū	名詞
 uj	ū	名詞
+uj	ウ	名詞
 uj	有	名詞
 uj	譽	名詞
 uj	豫	名詞
