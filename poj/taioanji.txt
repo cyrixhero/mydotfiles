@@ -30,6 +30,7 @@
 a;	a̋	名詞
 Aa	A	名詞
 aa	a	名詞
+aa	あ	名詞
 aa	ア	名詞
 aa	丫	名詞
 aa	亜	名詞
@@ -142,6 +143,7 @@ amkun	āmkún	名詞
 amkun	頷滾	名詞
 amkongchiau	àmkongchiáu	名詞
 amkongchiau	暗光鳥	名詞
+amkongchiau	暗こん鳥	名詞
 ampng	àmpn̄g	名詞
 ampng	暗飯	名詞
 amsi	àmsî	名詞
@@ -337,6 +339,7 @@ bahf	bah	名詞
 bahf	嘛	名詞
 bahf	肉	名詞
 baia	bai	名詞
+baia	ばい	名詞
 baia	毴	名詞
 baid	bài	名詞
 baig	bâi	名詞
@@ -926,6 +929,7 @@ chektek	chektek	名詞
 chektek	積德	名詞
 chekthiau	chekthiāu	名詞
 chenga	cheng	名詞
+chenga	ちぇん	名詞
 chenga	偵	名詞
 chenga	僧	名詞
 chenga	增	名詞
@@ -1669,7 +1673,8 @@ chhuttiunn	出張	名詞
 chhuttong	chhuttōng	名詞
 chhuttong	出動	名詞
 chia	chi	名詞
-chia	之	名詞
+chiaa	ちい	名詞
+chiaa	之	名詞
 chia	支	名詞
 chia	枝	名詞
 chia	芝	名詞
@@ -1938,6 +1943,9 @@ chiod	照	名詞
 chiod	醮	名詞
 chiohf	chioh	名詞
 chiohf	借	名詞
+chiohimji	chiohimjī	名詞
+chiohimji	借音字	名詞
+chiohimji	借いむ字	名詞
 chiohk	chio̍h	名詞
 chiohk	石	名詞
 chiokf	chiok	名詞
@@ -3072,6 +3080,7 @@ hausoan	候選	名詞
 hausoanjin	hāusoánjîn	名詞
 hausoanjin	候選人	名詞
 hea	he	名詞
+hea	へえ	名詞
 hea	彼	名詞
 hea	灰	名詞
 hea	痚	名詞
@@ -3167,7 +3176,7 @@ hia	稀	名詞
 hia	羲	名詞
 hia	虛	名詞
 hiaa	hia	名詞
-hiaa	ヒア	名詞
+hiaa	ひあ	名詞
 hiaa	靴	名詞
 hiahf	hiah	名詞
 hiahf	靴	名詞
@@ -3333,6 +3342,7 @@ his	喜	名詞
 his	彼	名詞
 his	許	名詞
 hitf	hit	名詞
+hitf	ひっ	名詞
 hitf	彼	名詞
 hitf	許	名詞
 hitk	hi̍t	名詞
@@ -3557,6 +3567,7 @@ hoksip	復習	名詞
 hoksou	ho̍ksò͘	名詞
 hoksou	複數	名詞
 honga	hong	名詞
+honga	ほん	名詞
 honga	封	名詞
 honga	峯	名詞
 honga	峰	名詞
@@ -3982,6 +3993,7 @@ ikian	意見	名詞
 il	ĭ	名詞
 im;	i̋m	名詞
 ima	im	名詞
+ima	いむ	名詞
 ima	淹	名詞
 ima	阴	名詞
 ima	陰	名詞
@@ -4583,6 +4595,7 @@ kand	幹	名詞
 kand	諫	名詞
 kand	間	名詞
 kanga	kang	名詞
+kanga	かん	名詞
 kanga	公	名詞
 kanga	工	名詞
 kanga	江	名詞
@@ -6206,6 +6219,7 @@ kokk	ko̍k	名詞
 kokka	kokka	名詞
 kokka	國家	名詞
 konga	kong	名詞
+konga	こん	名詞
 konga	光	名詞
 konga	公	名詞
 konga	剛	名詞
@@ -8487,6 +8501,9 @@ phonga	phong	名詞
 phonga	豐	名詞
 phongd	phòng	名詞
 phongd	凸	名詞
+phonghong	phònghong	名詞
+phonghong	凸風	名詞
+phonghong	凸ほん	名詞
 phongg	phông	名詞
 phongpha	phòngphā	名詞
 phongpha	凸泡	名詞
@@ -9473,6 +9490,9 @@ siaua	簫	名詞
 siaua	蕭	名詞
 siaua	銷	名詞
 siaua	霄	名詞
+siauhong	siauhong	名詞
+siauhong	消風	名詞
+siauhong	消ほん	名詞
 siaubin	siáubīn	名詞
 siaubin	嬲面	名詞
 siaud	siàu	名詞
@@ -10294,6 +10314,9 @@ takk	毒	名詞
 takk	独	名詞
 takk	獨	名詞
 takk	逐	名詞
+takkang	ta̍kkang	名詞
+takkang	逐工	名詞
+takkang	逐かん	名詞
 tama	tam	名詞
 tama	擔	名詞
 tama	耽	名詞
@@ -11051,7 +11074,9 @@ tiams	点	名詞
 tiams	點	名詞
 tiamcheng	tiámcheng	名詞
 tiamcheng	點鐘	名詞
+tiamcheng	點ちぇん	名詞
 tiamcheng	点鐘	名詞
+tiamcheng	点ちぇん	名詞
 tiana	tian	名詞
 tiana	傎	名詞
 tiana	巓	名詞
@@ -11805,7 +11830,7 @@ uiti	ūitì	名詞
 uiti	位置	名詞
 Uj	Ū	名詞
 uj	ū	名詞
-uj	ウ	名詞
+uj	う	名詞
 uj	有	名詞
 uj	譽	名詞
 uj	豫	名詞
