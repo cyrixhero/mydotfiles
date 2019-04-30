@@ -195,6 +195,9 @@ Angg	Âng	名詞
 angg	âng	名詞
 angg	洪	名詞
 angg	紅	名詞
+angchiu	ângchiú	名詞
+angchiu	紅酒	名詞
+angchiu	アン酒	名詞
 angh	ãng	名詞
 Angj	Āng	名詞
 angj	āng	名詞
@@ -581,6 +584,8 @@ bitk	密	名詞
 bitk	蜜	名詞
 biuj	biū	名詞
 biuj	謬	名詞
+bo	ぼを	名詞
+boleh	ぼをレ	名詞
 boag	bôa	名詞
 boag	磨	名詞
 boahf	boah	名詞
@@ -2023,7 +2028,8 @@ chis	沚	名詞
 chis	紫	名詞
 chiteng	chítēng	名詞
 chiteng	指定	名詞
-chitf	chit	名詞
+chit	chit	名詞
+chit	ちっ	名詞
 chitf	只	名詞
 chitf	得	名詞
 chitf	織	名詞
@@ -2035,8 +2041,22 @@ chitk	chi̍t	名詞
 chitk	一	名詞
 chitk	嫉	名詞
 chitk	疾	名詞
+chite	chite	名詞
+chite	只个	名詞
+chite	ちっ个	名詞
+chite	ちっえ	名詞
+chitkhoan	chitkhoán	名詞
+chitkhoan	只款	名詞
+chitkhoan	ちっ款	名詞
 chitma	chitmá	名詞
 chitma	只馬	名詞
+chitma	ちっ馬	名詞
+chitpai	chitpái	名詞
+chitpai	只次	名詞
+chitpai	ちっ次	名詞
+chitui	chitūi	名詞
+chitui	只位	名詞
+chitui	ちっ位	名詞
 chito	chítō	名詞
 chito	指導	名詞
 chiua	chiu	名詞
@@ -3992,8 +4012,8 @@ ikian	ìkiàn	名詞
 ikian	意見	名詞
 il	ĭ	名詞
 im;	i̋m	名詞
-ima	im	名詞
-ima	いむ	名詞
+im	im	名詞
+im	いむ	名詞
 ima	淹	名詞
 ima	阴	名詞
 ima	陰	名詞
@@ -4017,6 +4037,7 @@ imtian	imtiān	名詞
 imtian	陰電	名詞
 in;	i̋n	名詞
 ina	in	名詞
+ina	いぬ	名詞
 ina	因	名詞
 ina	姻	名詞
 ina	恩	名詞
@@ -6218,8 +6239,8 @@ kokip	高級	名詞
 kokk	ko̍k	名詞
 kokka	kokka	名詞
 kokka	國家	名詞
+kong	こん	名詞
 konga	kong	名詞
-konga	こん	名詞
 konga	光	名詞
 konga	公	名詞
 konga	剛	名詞
@@ -6274,6 +6295,9 @@ kongma	kongmá	名詞
 kongma	公媽	名詞
 kongoe	kóngōe	名詞
 kongoe	講話	名詞
+kongtoli	kóngtolí	名詞
+kongtoli	講道理	名詞
+kongtoli	講とを理	名詞
 kongs	kóng	名詞
 kongs	講	名詞
 kongs	廣	名詞
@@ -6366,6 +6390,8 @@ kuia	歸	名詞
 kuia	規	名詞
 kuibou	kuibô͘	名詞
 kuibou	規模	名詞
+kuikang	kuikang	名詞
+kuikang	くい工	名詞
 kuid	kùi	名詞
 kuid	季	名詞
 kuid	桂	名詞
@@ -6513,6 +6539,8 @@ laite	內底	名詞
 laj	lā	名詞
 laj	拉	名詞
 laj	撈	名詞
+latisai	lātisái	名詞
+latisai	撈猪屎	名詞
 lakf	lak	名詞
 lakf	槖	名詞
 lakf	橐	名詞
@@ -7138,7 +7166,7 @@ lomaji	羅馬字	名詞
 lomd	lòm	名詞
 lomd	坔	名詞
 lomd	湳	名詞
-longa	long	名詞
+long	ろん	名詞
 longbin	lôngbîn	名詞
 longbin	農民	名詞
 longchhoan	lôngchhoan	名詞
@@ -7172,6 +7200,7 @@ longs	朗	名詞
 longs	籠	名詞
 longsi	lóngsī	名詞
 longsi	朗是	名詞
+longsi	ろん是	名詞
 longsan	lôngsán	名詞
 longsan	農產	名詞
 longsanphin	lôngsánphín	名詞
@@ -7917,6 +7946,10 @@ oej	能	名詞
 oej	衛	名詞
 oej	衞	名詞
 oej	話	名詞
+oehoulan	ōehoulān	名詞
+oehoulan	ōehóolān	名詞
+oehoulan	畫虎玍	名詞
+oehoulan	話虎玍	名詞
 Oes	Óe	名詞
 oes	óe	名詞
 oes	挖	名詞
@@ -8052,6 +8085,7 @@ painns	páiⁿ	名詞
 painns	反	名詞
 pais	pái	名詞
 pais	擺	名詞
+pais	次	名詞
 paj	pā	名詞
 paj	罷	名詞
 pakf	pak	名詞
@@ -11037,7 +11071,8 @@ thus	杼	名詞
 thutf	thut	名詞
 thutf	禿	名詞
 thutf	黜	名詞
-tia	ti	名詞
+ti	ti	名詞
+ti	てい	名詞
 tia	株	名詞
 tiaa	猪	名詞
 tia	知	名詞
@@ -11046,6 +11081,9 @@ tia	誅	名詞
 tia	豬	名詞
 tibah	tibah	名詞
 tibah	猪肉	名詞
+tisai	tisái	名詞
+tisai	tisai	名詞
+tisai	猪屎	名詞
 tiaa	tia	名詞
 tiaa	爹	名詞
 tiahf	tiah	名詞
@@ -11464,7 +11502,7 @@ tngj	断	名詞
 tngj	斷	名詞
 tngs	tńg	名詞
 tngs	返	名詞
-toa	to	名詞
+to	とを	名詞
 toa	刀	名詞
 toa	都	名詞
 toaa	toa	名詞
