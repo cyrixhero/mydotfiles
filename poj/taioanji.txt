@@ -226,6 +226,10 @@ anne	按呢	名詞
 anne	按ね	名詞
 anneto	ánneto	名詞
 anneto	按ねと	名詞
+annebe	ánnebe	名詞
+annebe	按ねべ 	名詞
+anneboe	ánneboe 	名詞
+anneboe	按ねぼえ 	名詞
 Anng	Âⁿ	名詞
 anng	âⁿ	名詞
 anng	âⁿ	名詞
@@ -453,12 +457,14 @@ bed	bè	名詞
 beg	bê	名詞
 beg	糜	名詞
 beg	迷	名詞
+beh	べぇ	名詞
 behf	beh	名詞
 behf	卜	名詞
 behk	be̍h	名詞
 behk	脈	名詞
 behk	襪	名詞
 behk	麥	名詞
+be	べ	名詞
 bej	bē	名詞
 bej	妹	名詞
 bej	未	名詞
@@ -615,6 +621,7 @@ boehf	boeh	名詞
 boehf	卜	名詞
 boehk	boe̍h	名詞
 boehk	襪	名詞
+boe	ぼえ	名詞
 boej	bōe	名詞
 boej	未	名詞
 boej	袂	名詞
@@ -790,6 +797,8 @@ chaiiann	知影	名詞
 chaij	chāi	名詞
 chaij	侢	名詞
 chaij	在	名詞
+chailaisoann	chailaisòaⁿ	名詞
+chailaisoann	在來線	名詞
 chailiau	châiliāu	名詞
 chailiau	材料	名詞
 chainna	chaiⁿ	名詞
@@ -890,6 +899,7 @@ chaus	走	名詞
 chea	che	名詞
 chea	這	名詞
 chea	此	名詞
+chesi	這し	名詞
 checho	chèchō	名詞
 checho	chèchō	名詞
 checho	製造	名詞
@@ -1514,6 +1524,9 @@ chhiupio	chhiúpió	名詞
 chhiupio	手錶	名詞
 chhius	chhiú	名詞
 chhius	手	名詞
+chhiukia	chhiúkiá	名詞
+chhiukia	手機仔	名詞
+chhiukia	手キ仔	名詞
 chhiuse	chhiúsè	名詞
 chhiuse	手勢	名詞
 chhiuthau	chhiúthâu	名詞
@@ -1796,6 +1809,9 @@ chianng	chiâⁿ	名詞
 chianng	情	名詞
 chianng	成	名詞
 chianng	誠	名詞
+chiannho	chiaⁿhó	名詞
+chiannho	chiannhó	名詞
+chiannho	誠ほ	名詞
 chiannpan	chiàⁿpán	名詞
 chiannpan	chiàⁿpān	名詞
 chiannpan	正版	名詞
@@ -3046,6 +3062,9 @@ hang	寒	名詞
 hang	閑	名詞
 hang	閒	名詞
 hang	韓	名詞
+hankoklang	Hankoklang	名詞
+hankoklang	韓囯人	名詞
+hankoklang	ハヌ囯人	名詞
 hanga	hang	名詞
 hanga	烘	名詞
 hangd	hàng	名詞
@@ -3662,8 +3681,10 @@ hongs	倣	名詞
 hongs	妨	名詞
 hongs	況	名詞
 hongs	訪	名詞
+hongsang	hongsang	名詞
 hongsang	hòngsàng	名詞
 hongsang	放送	名詞
+hongsang	放さん	名詞
 hongsek	hongsek	名詞
 hongsek	方式	名詞
 hongsia	hongsiâ	名詞
@@ -3672,6 +3693,8 @@ hongsiok	hongsio̍k	名詞
 hongsiok	風俗	名詞
 hongtian	hòngtiān	名詞
 hongtian	放電	名詞
+ho	ほ	名詞
+ho	ホ	名詞
 hos	hó	名詞
 hos	好	名詞
 hose	hósè	名詞
@@ -3686,6 +3709,7 @@ houg	狐	名詞
 houg	糊	名詞
 houg	胡	名詞
 houhnna	ho͘hⁿ	名詞
+hou	ほお	名詞
 houj	hō͘	名詞
 houj	乎	名詞
 houj	互	名詞
@@ -5556,6 +5580,8 @@ khuthui	khūthûi	名詞
 khuthui	臼槌	名詞
 khutse	khutsè	名詞
 khutse	屈勢	名詞
+ki	き	名詞
+ki	キ	名詞
 kia	ki	名詞
 kia	乩	名詞
 kia	基	名詞
@@ -6532,6 +6558,7 @@ laibin	lāibīn	名詞
 laibin	內面	名詞
 laichai	lāichâi	名詞
 laichai	內才	名詞
+lai	らい	名詞
 laig	lâi	名詞
 laig	來	名詞
 laig	梨	名詞
@@ -6624,6 +6651,8 @@ lanj	lān	名詞
 lanj	爛	名詞
 lanj	玍	名詞
 lanj	難	名詞
+lanchiau	lanchiáu	名詞
+lanchiau	玍鳥	名詞
 lans	lán	名詞
 lans	咱	名詞
 lans	嬾	名詞
@@ -6708,6 +6737,7 @@ lekk	歷	名詞
 lekk	溺	名詞
 lekk	綠	名詞
 leksu	le̍ksú	名詞
+leksu	leksú	名詞
 leksu	歷史	名詞
 lenga	leng	名詞
 lenga	乳	名詞
@@ -6883,6 +6913,7 @@ liauj	廖	名詞
 liauj	料	名詞
 liaukai	liáukái	名詞
 liaukai	了解	名詞
+liaukai	了かい	名詞
 liaus	liáu	名詞
 liaus	了	名詞
 liaus	爪	名詞
@@ -6901,7 +6932,9 @@ lihai	利害	名詞
 lihk	li̍h	名詞
 lihk	裂	名詞
 liiong	līiōng	名詞
+liiong	liiong	名詞
 liiong	利用	名詞
+liiong	利いぉん	名詞
 liiu	líiû	名詞
 liiu	理由	名詞
 lij	lī	名詞
@@ -9621,6 +9654,7 @@ sihnah	sihnah	名詞
 sihnah	薛那	名詞
 sihnna	sihⁿ	名詞
 sihnna	薛	名詞
+si	し	名詞
 sij	sī	名詞
 sij	侍	名詞
 sij	叙	名詞
@@ -9684,6 +9718,8 @@ sina	身	名詞
 sina	辛	名詞
 sina	駪	名詞
 sina	騂	名詞
+sinkansoann	sinkànsòaⁿ	名詞
+sinkansoann	新幹線	名詞
 sinchupai	sînchúpâi	名詞
 sinchupai	神主牌	名詞
 sind	sìn	名詞
@@ -10307,6 +10343,7 @@ taia	玳	名詞
 taibun	Tâibûn	名詞
 taibun	台文	名詞
 taichi	tāichì	名詞
+taichi	taichì	名詞
 taichi	代志	名詞
 taichiong	tāichìong	名詞
 taichiong	大眾	名詞
@@ -10858,6 +10895,10 @@ thianna	thiaⁿ	名詞
 thianna	听	名詞
 thianna	聽	名詞
 thianna	廳	名詞
+thiannkhoannmai	thiaⁿkhòaⁿmai	名詞
+thiannkhoannmai	听看まい	名詞
+thiannkhoannbai	thiaⁿkhòaⁿbai	名詞
+thiannkhoannbai	听看ばい	名詞
 thiannd	thiàⁿ	名詞
 thiannd	疼	名詞
 thiannd	痛	名詞
@@ -11554,6 +11595,9 @@ toahf	toah	名詞
 toaj	tōa	名詞
 toaj	大	名詞
 toaj	舵	名詞
+toaki	toaki	名詞
+toaki	大枝	名詞
+toaki	大き	名詞
 toalang	tōalâng	名詞
 toalang	大人	名詞
 toalau	tōalâu	名詞
@@ -11761,6 +11805,8 @@ tug	鋤	名詞
 tug	除	名詞
 tuhk	tu̍h	名詞
 tuhk	株	名詞
+tuhlan	tuhlan	名詞
+tuhlan	株玍	名詞
 tuia	tui	名詞
 tuia	堆	名詞
 tuia	追	名詞
@@ -11788,6 +11834,8 @@ tuitiong	tùitiōng	名詞
 tuitiong	對重	名詞
 tuj	tū	名詞
 tuj	箸	名詞
+tulan	tulan	名詞
+tulan	株玍	名詞
 tuna	tun	名詞
 tuna	墩	名詞
 tuna	敦	名詞
