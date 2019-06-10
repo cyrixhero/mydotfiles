@@ -25,3 +25,5 @@
 **** https://feeds.feedburner.com/arstechnica/index/
 **** https://news.ltn.com.tw/rss/politics.xml
 **** https://news.ltn.com.tw/rss/business.xml
+**** https://news.ltn.com.tw/rss/life.xml
+**** https://news.ltn.com.tw/rss/central.xml
