@@ -23,4 +23,5 @@
 **** http://news.ltn.com.tw/rss/society.xml
 **** http://news.ltn.com.tw/rss/southern.xml
 **** https://feeds.feedburner.com/arstechnica/index/
-**** https://lwn.net/headlines/newrss
+**** https://news.ltn.com.tw/rss/politics.xml
+**** https://news.ltn.com.tw/rss/business.xml
