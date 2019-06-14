@@ -13166,3 +13166,9 @@ lomx	ロム	名詞
 lomx	ろむ	名詞
 longx	ロン	名詞
 longx	ろん	名詞
+dox	ド	名詞
+dox	ど	名詞
+dux	ヅ	名詞
+dux	づ	名詞
+dix	ヂ	名詞
+dix	ぢ	名詞
