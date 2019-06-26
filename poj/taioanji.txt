@@ -1811,9 +1811,17 @@ chianng	chiâⁿ	名詞
 chianng	情	名詞
 chianng	成	名詞
 chianng	誠	名詞
+ziahg	ziâh	名詞
+ziann	ziâh	名詞
+ziann	誠	名詞
+ziann	ジアン	名詞
+ziann	じあん	名詞
+ziah	誠	名詞
+ziah	ジアン	名詞
+ziah	じあん	名詞
 chiannho	chiaⁿhó	名詞
 chiannho	chiannhó	名詞
-chiannho	誠ほ	名詞
+chiannho	誠ホ	名詞
 chiannpan	chiàⁿpán	名詞
 chiannpan	chiàⁿpān	名詞
 chiannpan	正版	名詞
@@ -13180,3 +13188,5 @@ zix	ジ	名詞
 zix	じ	名詞
 nnx	ン	名詞
 nnx	ん	名詞
+yax	ヤ	名詞
+yax	や	名詞
