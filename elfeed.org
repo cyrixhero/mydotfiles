@@ -27,3 +27,4 @@
 **** https://news.ltn.com.tw/rss/business.xml
 **** https://news.ltn.com.tw/rss/life.xml
 **** https://news.ltn.com.tw/rss/central.xml
+**** https://pansci.asia/feed
