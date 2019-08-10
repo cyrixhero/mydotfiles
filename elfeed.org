@@ -28,3 +28,4 @@
 **** https://news.ltn.com.tw/rss/life.xml
 **** https://news.ltn.com.tw/rss/central.xml
 **** https://pansci.asia/feed
+**** https://innews.pts.org.tw/?feed=rss
