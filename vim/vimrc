@@ -126,4 +126,7 @@ let g:rubycomplete_load_gemfile = 1
 let g:rubycomplete_gemfile_path = 'Gemfile.aux'
 let g:rubycomplete_use_bundler = 1
 
+" Vim configuration for Rust.
+Plug 'rust-lang/rust.vim'
+
 call plug#end()
