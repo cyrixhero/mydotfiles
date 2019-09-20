@@ -14,18 +14,10 @@
 **** https://tails.boum.org/news/index.en.atom                      :tails:tor:
 *** Clear Web
 **** https://lifehacker.com/rss
-**** http://www6.nhk.or.jp/special/feed/schedule.html
 **** https://www.ithome.com.tw/rss
 **** https://hacks.mozilla.org/feed/
-**** https://tw.appledaily.com/rss/create/kind/sec/type/1077
-**** https://tw.appledaily.com/rss/create/kind/sec/type/1066
 **** http://news.ltn.com.tw/rss/focus.xml
-**** http://news.ltn.com.tw/rss/society.xml
 **** http://news.ltn.com.tw/rss/southern.xml
 **** https://feeds.feedburner.com/arstechnica/index/
-**** https://news.ltn.com.tw/rss/politics.xml
-**** https://news.ltn.com.tw/rss/business.xml
-**** https://news.ltn.com.tw/rss/life.xml
-**** https://news.ltn.com.tw/rss/central.xml
 **** https://pansci.asia/feed
 **** https://innews.pts.org.tw/?feed=rss
