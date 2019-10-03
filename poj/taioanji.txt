@@ -2474,7 +2474,7 @@ ehf	eh	名詞
 ehf	eh	名詞
 ehh	ẽh	名詞
 ehiau	ēhiáu	名詞
-ehiau	會曉	名詞
+ehiau	会曉	名詞
 ehiau	能曉	名詞
 Ehk	E̍h	名詞
 ehk	e̍h	名詞
@@ -2492,7 +2492,7 @@ ehnnl	ĕⁿ	名詞
 Ej	Ē	名詞
 ej	ē	名詞
 ej	下	名詞
-ej	會	名詞
+ej	会	名詞
 ej	能	名詞
 ek;	e̋k	名詞
 Ekf	Ek	名詞
@@ -2632,10 +2632,10 @@ es	唖	名詞
 es	啞	名詞
 es	矮	名詞
 esai	ēsái	名詞
-esai	會使	名詞
+esai	会使	名詞
 esai	能使	名詞
 etang	ētàng	名詞
-etang	會凍	名詞
+etang	会凍	名詞
 etang	能凍	名詞
 ete	ēté	名詞
 ete	下底	名詞
@@ -3158,7 +3158,7 @@ hej	hē	名詞
 hej	下	名詞
 hej	係	名詞
 hej	夏	名詞
-hej	會	名詞
+hej	会	名詞
 hej	系	名詞
 hej	薈	名詞
 hekf	hek	名詞
@@ -3348,7 +3348,7 @@ hig	魚	名詞
 hihf	hih	名詞
 hihnna	hihⁿ	名詞
 hihoe	hîhōe	名詞
-hihoe	漁會	名詞
+hihoe	漁会	名詞
 hij	hī	名詞
 hij	耳	名詞
 hima	him	名詞
@@ -3563,20 +3563,19 @@ hoeg	廻	名詞
 hoeg	徊	名詞
 hoeg	迴	名詞
 hoegi	hōegī	名詞
-hoegi	會議	名詞
+hoegi	会議	名詞
 hoegoan	hōegoân	名詞
-hoegoan	會員	名詞
+hoegoan	会員	名詞
 hoehf	hoeh	名詞
 hoehf	血	名詞
 hoehk	hoe̍h	名詞
 hoej	hōe	名詞
 hoej	匯	名詞
 hoej	会	名詞
-hoej	會	名詞
 hoej	薈	名詞
 hoej	蟹	名詞
 hoeoan	hōeoân	名詞
-hoeoan	會員	名詞
+hoeoan	会員	名詞
 hoepo	hôepò	名詞
 hoepo	回報	名詞
 hoes	hóe	名詞
@@ -4793,7 +4792,7 @@ kauhf	kauh	名詞
 kauhia	káuhiā	名詞
 kauhia	狗蟻	名詞
 kauhoe	kàuhōe	名詞
-kauhoe	教會	名詞
+kauhoe	教会	名詞
 kauiok	kàuio̍k	名詞
 kauiok	教育	名詞
 kauj	kāu	名詞
@@ -5847,7 +5846,7 @@ kihai	kihâi	名詞
 kihai	機械	名詞
 kihf	kih	名詞
 kihoe	kihōe	名詞
-kihoe	機會	名詞
+kihoe	機会	名詞
 kij	kī	名詞
 kij	具	名詞
 kij	妓	名詞
@@ -6232,7 +6231,7 @@ koea	街	名詞
 koea	雞	名詞
 koea	鷄	名詞
 koed	kòe	名詞
-koed	會	名詞
+koed	会	名詞
 koed	界	名詞
 koed	過	名詞
 koehf	koeh	名詞
@@ -6242,7 +6241,7 @@ koehk	哇	名詞
 koej	kōe	名詞
 koej	易	名詞
 koeke	kòekè	名詞
-koeke	會計	名詞
+koeke	会計	名詞
 koekhi	kòekhì	名詞
 koekhi	過去	名詞
 koeli	kòelī	名詞
@@ -7258,7 +7257,7 @@ longg	郎	名詞
 longgaip	lônggia̍p	名詞
 longgaip	農業	名詞
 longhoe	lônghōe	名詞
-longhoe	農會	名詞
+longhoe	農会	名詞
 longioh	lôngio̍h	名詞
 longioh	農藥	名詞
 longj	lōng	名詞
@@ -7622,8 +7621,8 @@ nachun	な凖	名詞
 nachun	なつぬ	名詞
 nae	náe	名詞
 nae	nae	名詞
-nae	那會	名詞
-nae	な會	名詞
+nae	那会	名詞
+nae	な会	名詞
 nae	なえ	名詞
 nasi	nasi	名詞
 nasi	那是	名詞
@@ -8021,7 +8020,7 @@ oehk	畫	名詞
 oehk	畵	名詞
 Oej	Ōe	名詞
 oej	ōe	名詞
-oej	會	名詞
+oej	会	名詞
 oej	畫	名詞
 oej	畵	名詞
 oej	能	名詞
@@ -9429,7 +9428,7 @@ siahk	sia̍h	名詞
 siahk	席	名詞
 siahoe	siāhōe	名詞
 siahoe	社会	名詞
-siahoe	社會	名詞
+siahoe	社会	名詞
 siaj	siā	名詞
 siaj	射	名詞
 siaj	榭	名詞
@@ -10510,7 +10509,7 @@ tangs	董	名詞
 tangsu	tángsū	名詞
 tangsu	董事	名詞
 tangsuhoe	tángsūhōe	名詞
-tangsuhoe	董事會	名詞
+tangsuhoe	董事会	名詞
 tangsutiunn	tángsūtiúⁿ	名詞
 tangsutiunn	董事長	名詞
 tanj	tān	名詞
@@ -11739,7 +11738,7 @@ tongbut	動物	名詞
 tongchhong	tôngchhong	名詞
 tongchhong	同窗	名詞
 tongchhonghoe	tôngchhonghōe	名詞
-tongchhonghoe	同窗會	名詞
+tongchhonghoe	同窗会	名詞
 tongchok	tōngchok	名詞
 tongchok	動作	名詞
 tongd	tòng	名詞
