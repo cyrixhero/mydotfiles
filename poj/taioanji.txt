@@ -4948,7 +4948,7 @@ kesiok	繼續	名詞
 ketat	kèta̍t	名詞
 ketat	價值	名詞
 ketatkoan	kèta̍tkoan	名詞
-ketatkoan	價值觀	名詞
+ketatkoan	價值観	名詞
 khaa	kha	名詞
 khaa	尻	名詞
 khaa	脚	名詞
@@ -6138,11 +6138,11 @@ koana	娟	名詞
 koana	官	名詞
 koana	捐	名詞
 koana	棺	名詞
-koana	觀	名詞
+koana	観	名詞
 koana	關	名詞
 koana	鵑	名詞
 koanchiong	koanchiòng	名詞
-koanchiong	觀眾	名詞
+koanchiong	観眾	名詞
 koand	koàn	名詞
 koand	冠	名詞
 koand	券	名詞
@@ -6171,7 +6171,7 @@ koankong	關公	名詞
 koanli	koánlí	名詞
 koanli	管理	名詞
 koanliam	koanliām	名詞
-koanliam	觀念	名詞
+koanliam	観念	名詞
 koanligoan	koánlígoân	名詞
 koanligoan	管理員	名詞
 koanna	koaⁿ	名詞
@@ -6204,7 +6204,7 @@ koansi	慣勢	名詞
 koansim	koansim	名詞
 koansim	關心	名詞
 koantiam	koantiám	名詞
-koantiam	觀點	名詞
+koantiam	観點	名詞
 koas	kóa	名詞
 koas	卦	名詞
 koasu	koasû	名詞
