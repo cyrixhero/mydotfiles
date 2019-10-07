@@ -19,5 +19,4 @@
 **** http://news.ltn.com.tw/rss/focus.xml
 **** http://news.ltn.com.tw/rss/southern.xml
 **** https://feeds.feedburner.com/arstechnica/index/
-**** https://pansci.asia/feed
 **** https://innews.pts.org.tw/?feed=rss
