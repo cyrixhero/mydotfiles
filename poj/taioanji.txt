@@ -187,7 +187,7 @@ angaphiau	尫仔標	名詞
 angathau	angáthâu	名詞
 angathau	尫仔頭	名詞
 angatou	angátô͘	名詞
-angatou	尫仔圖	名詞
+angatou	尫仔図	名詞
 Angd	Àng	名詞
 angd	àng	名詞
 angd	甕	名詞
@@ -4263,7 +4263,7 @@ itk	i̍t	名詞
 itk	i̍t	名詞
 itl	ĭt	名詞
 itou	ìtô͘	名詞
-itou	意圖	名詞
+itou	意図	名詞
 itpoann	itpoaⁿ	名詞
 itpoann	一般	名詞
 itteng	ittēng	名詞
@@ -11794,7 +11794,7 @@ toud	妒	名詞
 toud	蠹	名詞
 toud	鬥	名詞
 toug	tô͘	名詞
-toug	圖	名詞
+toug	図	名詞
 toug	塗	名詞
 toug	屠	名詞
 toug	徒	名詞
