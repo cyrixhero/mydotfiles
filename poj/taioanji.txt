@@ -3773,6 +3773,7 @@ huia	霏	名詞
 huia	非	名詞
 huia	飛	名詞
 huid	hùi	名詞
+huid	廃	名詞
 huid	廢	名詞
 huid	諱	名詞
 huid	費	名詞
