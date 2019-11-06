@@ -3788,7 +3788,11 @@ huij	惠	名詞
 huij	慧	名詞
 huij	緯	名詞
 huij	蕙	名詞
-huikhi	hùikhì	名詞
+huihi	廃墟	名詞
+huihi	フイ墟	名詞
+huihi	廃ヒ	名詞
+huihi	フイヒ	名詞
+huihi	hùihi	名詞
 huikhi	廢氣	名詞
 huikhi	費氣	名詞
 huinng	hûiⁿ	名詞
@@ -12413,6 +12417,7 @@ chamx	つぁむ	名詞
 changx	ツァン	名詞
 changx	つぁん	名詞
 six	シ	名詞
+shix	シ	名詞
 six	し	名詞
 six	シイ	名詞
 six	しい	名詞
