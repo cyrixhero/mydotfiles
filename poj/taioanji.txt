@@ -6946,6 +6946,7 @@ liao	了	名詞
 liao	リアオ	名詞
 liao	リア尾	名詞
 liao	リ尾	名詞
+liaus	liáu	名詞
 liaus	了	名詞
 liaus	リア尾	名詞
 liaus	爪	名詞
