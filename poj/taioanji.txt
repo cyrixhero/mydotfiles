@@ -6935,7 +6935,18 @@ liauj	料	名詞
 liaukai	liáukái	名詞
 liaukai	了解	名詞
 liaukai	了かい	名詞
+liao	liao	名詞
+riao	riao	名詞
+riao	了	名詞
+riao	リアオ	名詞
+riao	リア尾	名詞
+riao	リ尾	名詞
+liao	liáu	名詞
 liaus	liáu	名詞
+liao	了	名詞
+liao	リアオ	名詞
+liao	リア尾	名詞
+liao	リ尾	名詞
 liaus	了	名詞
 liaus	爪	名詞
 liek	līek	名詞
@@ -12090,6 +12101,7 @@ amx	アム	名詞
 amx	あむ	名詞
 angx	アン	名詞
 angx	あん	名詞
+aox	アオ	名詞
 ix	イ	名詞
 ix	い	名詞
 iax	イア	名詞
@@ -12153,6 +12165,7 @@ omx	おむ	名詞
 ongx	オン	名詞
 ongx	おん	名詞
 ox	ヲ	名詞
+ox	オ	名詞
 ox	を	名詞
 oax	ヲア	名詞
 oax	をあ	名詞
@@ -13106,6 +13119,8 @@ lamx	ラム	名詞
 lamx	らむ	名詞
 langx	ラン	名詞
 langx	らん	名詞
+rix	リ	名詞
+rix	り	名詞
 lix	リ	名詞
 lix	り	名詞
 lix	リイ	名詞
