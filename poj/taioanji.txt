@@ -6942,12 +6942,12 @@ riao	リアオ	名詞
 riao	リア尾	名詞
 riao	リ尾	名詞
 liao	liáu	名詞
-liaus	liáu	名詞
 liao	了	名詞
 liao	リアオ	名詞
 liao	リア尾	名詞
 liao	リ尾	名詞
 liaus	了	名詞
+liaus	リア尾	名詞
 liaus	爪	名詞
 liek	līek	名詞
 liek	利益	名詞
