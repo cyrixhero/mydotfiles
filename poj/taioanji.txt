@@ -811,6 +811,10 @@ chais	宰	名詞
 chais	早	名詞
 chaj	chā	名詞
 chaj	昨	名詞
+za	昨	名詞
+zame	昨メ	名詞
+zame	昨冥	名詞
+zame	zame	名詞
 chakf	chak	名詞
 chakk	cha̍k	名詞
 chama	cham	名詞
@@ -1391,6 +1395,9 @@ chhihk	chhi̍h	名詞
 chhihk	市	名詞
 chhij	chhī	名詞
 chhij	市	名詞
+chitivu	市場	名詞
+chitivu	市場	名詞
+vu	ヴ	名詞
 chhij	飼	名詞
 chhima	chhim	名詞
 chhima	侵	名詞
@@ -2072,6 +2079,11 @@ chiteng	指定	名詞
 chit	chit	名詞
 chit	ちっ	名詞
 chitf	只	名詞
+zile	只レ	名詞
+zile	ジレ	名詞
+zidleq	ジレ	名詞
+zidleq	只レ	名詞
+zidleq	zidleq	名詞
 chitf	得	名詞
 chitf	織	名詞
 chitf	職	名詞
@@ -3024,6 +3036,8 @@ haiiunn	海洋	名詞
 haij	hāi	名詞
 haij	亥	名詞
 haij	害	名詞
+haikhi	害去	名詞
+haikhi	ハイ去	名詞
 hainna	haiⁿ	名詞
 hainnd	hàiⁿ	名詞
 hainng	hâiⁿ	名詞
@@ -6625,6 +6639,8 @@ laichai	內才	名詞
 lai	らい	名詞
 laig	lâi	名詞
 laig	來	名詞
+laai	來	名詞
+laai	ラアイ	名詞
 looi	looi	名詞
 looi	lôi	名詞
 looi	來	名詞
@@ -8416,6 +8432,8 @@ phahf	拍	名詞
 phahji	phahjī	名詞
 phahji	打字	名詞
 phahji	拍字	名詞
+phaqjiki	拍字キ	名詞
+phaqjiki	phaqjiki	名詞
 phaid	phài	名詞
 phaid	沛	名詞
 phaid	派	名詞
@@ -9755,6 +9773,9 @@ sid	試	名詞
 sig	sî	名詞
 sig	匙	名詞
 sig	時	名詞
+sizun	時陣	名詞
+sizun	シイ陣	名詞
+sizun	sizun	名詞
 sig	蒔	名詞
 sig	辞	名詞
 sig	辭	名詞
@@ -10095,6 +10116,9 @@ siukhi	siūkhì	名詞
 siukhi	受氣	名詞
 siuli	siulí	名詞
 siuli	修理	名詞
+siulie	siulie	名詞
+siuli	修リ	名詞
+lie	リエ	名詞
 siunna	siuⁿ	名詞
 siunna	相	名詞
 siunna	箱	名詞
@@ -10282,6 +10306,9 @@ soubok	sò͘bo̍k	名詞
 soubok	數目	名詞
 souchai	só͘chāi	名詞
 souchai	所在	名詞
+sozai	所在	名詞
+sozai	ソ在	名詞
+sozai	sozai	名詞
 soud	sò͘	名詞
 soud	数	名詞
 soud	數	名詞
@@ -11901,6 +11928,8 @@ tongj	tōng	名詞
 tongj	動	名詞
 tongj	慟	名詞
 tongj	撞	名詞
+tongkiukeng	撞球間	名詞
+tongkiukeng	tongkiukeng	名詞
 tongj	洞	名詞
 tongj	蕩	名詞
 tongki	tōngki	名詞
@@ -12202,6 +12231,11 @@ youtube	youtube	名詞
 youtube	ユーチューブ	名詞
 sasimih	sasīmih	名詞
 sasimih	沙示乜	名詞
+sabahi	鯖魚	名詞
+sabahi	鯖ヒ	名詞
+sabahii	鯖ヒイ	名詞
+saba	鯖	名詞
+saba	サバ	名詞
 sushi	sushi	名詞
 sushi	寿司	名詞
 ichipon	ichipon	名詞
