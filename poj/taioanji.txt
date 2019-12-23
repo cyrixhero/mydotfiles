@@ -310,6 +310,8 @@ Auj	Āu	名詞
 auj	āu	名詞
 auj	后	名詞
 auj	後	名詞
+auzoa	後ゾア	名詞
+auzoa	auzoa	名詞
 aukhakin	āukhakin	名詞
 aukhakin	後脚筋	名詞
 aukhakun	āukhakun	名詞
@@ -458,6 +460,7 @@ beg	bê	名詞
 beg	糜	名詞
 beg	迷	名詞
 beh	べぇ	名詞
+beh	ベェ	名詞
 behf	beh	名詞
 behf	卜	名詞
 behk	be̍h	名詞
@@ -1717,6 +1720,8 @@ chia	芝	名詞
 chiaa	chia	名詞
 chiaa	者	名詞
 chiaa	遮	名詞
+zia	ジア	名詞
+zia	zia	名詞
 chiad	chià	名詞
 chiad	借	名詞
 chiad	蔗	名詞
@@ -2079,6 +2084,8 @@ chiteng	指定	名詞
 chit	chit	名詞
 chit	ちっ	名詞
 chitf	只	名詞
+zid	ジ	名詞
+zid	zid	名詞
 zile	只レ	名詞
 zile	ジレ	名詞
 zidleq	ジレ	名詞
@@ -2103,6 +2110,8 @@ chitkhoan	只款	名詞
 chitkhoan	ちっ款	名詞
 chitma	chitmá	名詞
 chitma	只馬	名詞
+zima	ジマ	名詞
+zima	zima	名詞
 chitma	ちっ馬	名詞
 chitpai	chitpái	名詞
 chitpai	只次	名詞
@@ -7361,6 +7370,8 @@ longsi	lóngsi	名詞
 longsi	朗是	名詞
 longsi	ろん是	名詞
 longsi	ろんし	名詞
+longsi	ロンシ	名詞
+longsi	longsi	名詞
 longsan	lôngsán	名詞
 longsan	農產	名詞
 longsanphin	lôngsánphín	名詞
@@ -7493,6 +7504,8 @@ maij	昧	名詞
 maij	眛	名詞
 maij	覓	名詞
 maij	覔	名詞
+mai	マイ	名詞
+mai	mai	名詞
 maij	賣	名詞
 maix	maix	名詞
 maix	mài	名詞
@@ -11127,6 +11140,8 @@ thig	啼	名詞
 thig	苔	名詞
 thihf	thih	名詞
 thihf	鉄	名詞
+thiqpangpng	鉄枋飯	名詞
+thiqpangpng	thiqpangpng	名詞
 thihf	鐵	名詞
 thihk	thi̍h	名詞
 thij	thî	名詞
@@ -11865,6 +11880,8 @@ toj	道	名詞
 tosi	tosi	名詞
 tosi	着是	名詞
 tosi	とし	名詞
+dosi	ドシ	名詞
+dosi	dosi	名詞
 tokf	tok	名詞
 tokf	卓	名詞
 tokf	啄	名詞
@@ -13367,6 +13384,8 @@ dox	ど	名詞
 dux	ヅ	名詞
 dux	づ	名詞
 dix	ヂ	名詞
+dizia	ヂジア	名詞
+dizia	dizia	名詞
 dix	ぢ	名詞
 dex	デ	名詞
 dex	で	名詞
