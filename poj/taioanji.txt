@@ -1117,6 +1117,8 @@ chhakk	chha̍k	名詞
 chhakk	鑿	名詞
 chhama	chham	名詞
 chhama	參	名詞
+chamthiva	參廳	名詞
+chamthiva	chamthiva	名詞
 chhamd	chhàm	名詞
 chhamd	塹	名詞
 chhamd	懺	名詞
@@ -8448,6 +8450,12 @@ phad	phà	名詞
 phahf	phah	名詞
 phahf	打	名詞
 phahf	拍	名詞
+pa	打	名詞
+pa	拍	名詞
+pasi	拍西	名詞
+pasi	pasi	名詞
+pasi	パし	名詞
+pasi	拍し	名詞
 phahji	phahjī	名詞
 phahji	打字	名詞
 phahji	拍字	名詞
@@ -12025,6 +12033,10 @@ tuhk	tu̍h	名詞
 tuhk	株	名詞
 tuhlan	tuhlan	名詞
 tuhlan	株玍	名詞
+tuhlan	肚爛	名詞
+tuhlanphio	株玍票	名詞
+tuhlanphio	肚爛票	名詞
+tuhlanphio	tuhlanphiò	名詞
 tuia	tui	名詞
 tuia	堆	名詞
 tuia	追	名詞
