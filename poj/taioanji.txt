@@ -139,6 +139,7 @@ anime	アニメ	名詞
 ann	餡	名詞
 anna	按那	名詞
 anne	アンエ	名詞
+anne	あんえ	名詞
 anne	安ネ	名詞
 anne	按ネ	名詞
 anne	按呢	名詞
@@ -146,6 +147,8 @@ annebe	按ネべ	名詞
 anneboe	按ネボエ	名詞
 anneto	按ネト	名詞
 anni	按ニ	名詞
+anni	アンイ	名詞
+anni	あんい	名詞
 anni	按呢	名詞
 ansng	按算	名詞
 anx	あぬ	名詞
@@ -607,8 +610,8 @@ cha	查	名詞
 cha	楂	名詞
 cha	炸	名詞
 cha	詐	名詞
+cha	扎	名詞
 chabou	查某	名詞
-chah	扎	名詞
 chah	閘	名詞
 chai	つぁい	名詞
 chai	ツァイ	名詞
