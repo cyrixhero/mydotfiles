@@ -75,7 +75,7 @@ values."
    ;; wrapped in a layer. If you need some configuration for these
    ;; packages, then consider creating a layer. You can also put the
    ;; configuration in `dotspacemacs/user-config'.
-   dotspacemacs-additional-packages '()
+   dotspacemacs-additional-packages '(mozc)
    ;; A list of packages that cannot be updated.
    dotspacemacs-frozen-packages '()
    ;; A list of packages that will not be installed and loaded.
@@ -343,6 +343,23 @@ This is the place where most of your configurations should be done. Unless it is
 explicitly specified that a variable should be set before a package is loaded,
 you should place your code here."
 
+  ;; mozc settings/ 日本語入力設定
+  (set-cursor-color "white")
+  (set-language-environment 'utf-8)
+  (set-terminal-coding-system 'utf-8)
+  (setq default-input-method "japanese-mozc")
+  (setq mozc-candidate-style 'echo-area)
+  ;; 日本語入力時にカーソルの色を変える設定 (色は適宜変えてください)
+  ;; (add-hook 'mozc-mode-hook '(lambda () (set-cursor-color "orange")))
+  ;; (add-hook 'deactivate-input-method '(lambda () (set-cursor-color "white")))
+  ;; evilのnormal-stateになったらIMEを英語に戻す
+  (add-hook 'evil-hybrid-state-entry-hook
+            '(lambda () (deactivate-input-method)))
+  ;; EmacsをアクティブにしたらIMEを英語に戻す
+  (add-hook 'focus-in-hook
+            '(lambda () (deactivate-input-method)))
+  (add-hook 'doc-view-mode-hook 'auto-revert-mode)
+
   ;; Setup Emacs for Terminal ê copy hām paste.
   (defun copy-to-clipboard ()
     "Copies selection to x-clipboard."
@@ -433,7 +450,7 @@ you should place your code here."
    ["#0a0814" "#f2241f" "#67b11d" "#b1951d" "#4f97d7" "#a31db1" "#28def0" "#b2b2b2"])
  '(package-selected-packages
    (quote
-    (toml-mode racer pos-tip cargo rust-mode lv transient magit-gh-pulls github-search github-clone github-browse-file gist gh marshal logito pcache web-mode tagedit slim-mode scss-mode sass-mode pug-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data tree-mode hierarchy engine-mode erc-yt erc-view-log erc-social-graph erc-image erc-hl-nicks elfeed-web elfeed-org elfeed-goodies elfeed smeargle orgit org-projectile org-category-capture org-present org-pomodoro org-mime org-download magit-gitflow htmlize helm-gitignore gnuplot gitignore-mode gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link evil-magit magit magit-popup git-commit ghub treepy graphql with-editor simple-httpd ace-jump-mode noflet mmm-mode markdown-toc markdown-mode gh-md yapfify pyvenv pytest pyenv-mode py-isort pip-requirements live-py-mode hy-mode dash-functional helm-pydoc cython-mode company-anaconda anaconda-mode pythonic mu4e-maildirs-extension mu4e-alert ht alert log4e gntp multi clips-mode xclip twittering-mode slime-company slime common-lisp-snippets vimrc-mode dactyl-mode helm-company helm-c-yasnippet company-statistics auto-yasnippet ac-ispell fuzzy company yasnippet auto-complete ws-butler winum which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spaceline powerline restart-emacs request rainbow-delimiters popwin persp-mode pcre2el paradox spinner org-plus-contrib org-bullets open-junk-file neotree move-text macrostep lorem-ipsum linum-relative link-hint indent-guide hydra hungry-delete hl-todo highlight-parentheses highlight-numbers parent-mode highlight-indentation helm-themes helm-swoop helm-projectile helm-mode-manager helm-make projectile pkg-info epl helm-flx helm-descbinds helm-ag google-translate golden-ratio flx-ido flx fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-lisp-state smartparens evil-indent-plus evil-iedit-state iedit evil-exchange evil-escape evil-ediff evil-args evil-anzu anzu evil goto-chg undo-tree eval-sexp-fu highlight elisp-slime-nav dumb-jump f dash s diminish define-word column-enforce-mode clean-aindent-mode bind-map bind-key auto-highlight-symbol auto-compile packed aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line helm avy helm-core popup async))))
+    (mozc toml-mode racer pos-tip cargo rust-mode lv transient magit-gh-pulls github-search github-clone github-browse-file gist gh marshal logito pcache web-mode tagedit slim-mode scss-mode sass-mode pug-mode helm-css-scss haml-mode emmet-mode company-web web-completion-data tree-mode hierarchy engine-mode erc-yt erc-view-log erc-social-graph erc-image erc-hl-nicks elfeed-web elfeed-org elfeed-goodies elfeed smeargle orgit org-projectile org-category-capture org-present org-pomodoro org-mime org-download magit-gitflow htmlize helm-gitignore gnuplot gitignore-mode gitconfig-mode gitattributes-mode git-timemachine git-messenger git-link evil-magit magit magit-popup git-commit ghub treepy graphql with-editor simple-httpd ace-jump-mode noflet mmm-mode markdown-toc markdown-mode gh-md yapfify pyvenv pytest pyenv-mode py-isort pip-requirements live-py-mode hy-mode dash-functional helm-pydoc cython-mode company-anaconda anaconda-mode pythonic mu4e-maildirs-extension mu4e-alert ht alert log4e gntp multi clips-mode xclip twittering-mode slime-company slime common-lisp-snippets vimrc-mode dactyl-mode helm-company helm-c-yasnippet company-statistics auto-yasnippet ac-ispell fuzzy company yasnippet auto-complete ws-butler winum which-key volatile-highlights vi-tilde-fringe uuidgen use-package toc-org spaceline powerline restart-emacs request rainbow-delimiters popwin persp-mode pcre2el paradox spinner org-plus-contrib org-bullets open-junk-file neotree move-text macrostep lorem-ipsum linum-relative link-hint indent-guide hydra hungry-delete hl-todo highlight-parentheses highlight-numbers parent-mode highlight-indentation helm-themes helm-swoop helm-projectile helm-mode-manager helm-make projectile pkg-info epl helm-flx helm-descbinds helm-ag google-translate golden-ratio flx-ido flx fill-column-indicator fancy-battery eyebrowse expand-region exec-path-from-shell evil-visualstar evil-visual-mark-mode evil-unimpaired evil-tutor evil-surround evil-search-highlight-persist evil-numbers evil-nerd-commenter evil-mc evil-matchit evil-lisp-state smartparens evil-indent-plus evil-iedit-state iedit evil-exchange evil-escape evil-ediff evil-args evil-anzu anzu evil goto-chg undo-tree eval-sexp-fu highlight elisp-slime-nav dumb-jump f dash s diminish define-word column-enforce-mode clean-aindent-mode bind-map bind-key auto-highlight-symbol auto-compile packed aggressive-indent adaptive-wrap ace-window ace-link ace-jump-helm-line helm avy helm-core popup async))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
