@@ -662,6 +662,8 @@ chan	賛	名詞
 chanbi	賛美	名詞
 chang	つぁん	名詞
 chang	ツァン	名詞
+chang	ちゃん	名詞
+chang	チャン	名詞
 chang	叢	名詞
 chang	層	名詞
 chang	棕	名詞
@@ -672,7 +674,9 @@ chang	糭	名詞
 chang	鬃	名詞
 changx	つぁん	名詞
 changx	ツァン	名詞
-chanj	贈	名詞
+changx	ちゃん	名詞
+changx	チャン	名詞
+chan	贈	名詞
 chann	斬	名詞
 chanseng	賛成	名詞
 chansiann	賛声	名詞
@@ -851,8 +855,8 @@ chha	差	名詞
 chha	查	名詞
 chha	柴	名詞
 chha	炒	名詞
-chhah	插	名詞
-chhah	揷	名詞
+chha	插	名詞
+chha	揷	名詞
 chhai	材	名詞
 chhai	猜	名詞
 chhai	菜	名詞
@@ -885,7 +889,7 @@ chham	懺	名詞
 chham	蠶	名詞
 chham	讒	名詞
 chham	讖	名詞
-chhama	參	名詞
+chham	參	名詞
 chhamka	參加	名詞
 chhamkho	參考	名詞
 chhamsiong	參詳	名詞
@@ -897,7 +901,10 @@ chhan	燦	名詞
 chhan	田	名詞
 chhan	餐	名詞
 chhang	聰	名詞
-chhang	葱	名詞
+chhang	ちゃはん	名詞
+chhang	チャハン	名詞
+chhangx ちゃはん	名詞
+chhangx	チャハン	名詞
 chhang	葱	名詞
 chhang	蔥	名詞
 chhangchuibi	汆水味	名詞
