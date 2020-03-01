@@ -103,6 +103,8 @@ alias bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0| grep -E "stat
 alias mozcdictbox='/usr/lib/mozc/mozc_tool --mode=dictionary_tool'
 alias mozcwordreg='/usr/lib/mozc/mozc_tool --mode=word_register_dialog'
 alias mozccharpal='/usr/lib/mozc/mozc_tool --mode=character_palette'
+alias kiwix='flatpak run org.kiwix.desktop'
+alias zeronet='~/ZeroNet/ZeroNet.sh'
 
 xhost +local:root > /dev/null 2>&1
 
