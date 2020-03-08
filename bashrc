@@ -105,6 +105,7 @@ alias mozcwordreg='/usr/lib/mozc/mozc_tool --mode=word_register_dialog'
 alias mozccharpal='/usr/lib/mozc/mozc_tool --mode=character_palette'
 alias kiwix='flatpak run org.kiwix.desktop'
 alias zeronet='~/ZeroNet/ZeroNet.sh'
+alias moedict='~/moedict/Moedict-Desktop'
 
 xhost +local:root > /dev/null 2>&1
 
