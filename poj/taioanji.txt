@@ -6794,6 +6794,7 @@ koong	狂	名詞
 koou	𥑮	名詞
 koou	估	名詞
 koou	古	名詞
+koouchar	古早	名詞
 koou	果	名詞
 koou	枸	名詞
 koou	糊	名詞
