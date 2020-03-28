@@ -7036,6 +7036,12 @@ kyz	き	名詞
 kyz	キ	名詞
 la	拉	名詞
 la	撈	名詞
+lax	垃	名詞
+lad	垃	名詞
+lasab	垃圾	名詞
+lasap	垃圾	名詞
+lasaptui	垃圾堆	名詞
+lasapthe	垃圾体	名詞
 laa	蚋	名詞
 laa	蜊	名詞
 laa	鯪	名詞
@@ -9215,6 +9221,7 @@ saangz	さあん	名詞
 saangz	サアン	名詞
 sab	雪	名詞
 sab	颯	名詞
+sab	圾	名詞
 saba	サバ	名詞
 saba	鯖	名詞
 sabahi	鯖ヒ	名詞
