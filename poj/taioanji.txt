@@ -29,7 +29,6 @@
 |	|	名詞
 a	也	名詞
 a	亦	名詞
-test	亦test	名詞
 aai	噯	名詞
 aan	安	名詞
 aan	按	名詞
