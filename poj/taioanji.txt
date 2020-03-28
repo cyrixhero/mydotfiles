@@ -7767,6 +7767,7 @@ mez	メ	名詞
 mez	めえ	名詞
 mez	メエ	名詞
 mi	麵	名詞
+misovarkou	麵散糊	名詞
 mia	命	名詞
 miaa	名	名詞
 miaa	明	名詞
