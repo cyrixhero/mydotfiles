@@ -929,6 +929,7 @@ che	仄	名詞
 che	債	名詞
 che	制	名詞
 che	坐	名詞
+chez	坐	名詞
 ce	坐	名詞
 che	多	名詞
 che	寨	名詞
