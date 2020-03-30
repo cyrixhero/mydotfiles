@@ -2178,7 +2178,8 @@ chiah	者	名詞
 chiah	脊	名詞
 chiah	跡	名詞
 chiah	隻	名詞
-chiah	食	名詞
+chiah	食	動詞一段
+chia	食ア	動詞一段
 chiah	食は	名詞
 chiah	食ハ	名詞
 chiahong	食風	名詞
@@ -10804,6 +10805,11 @@ tar	打	名詞
 tarm	胆	名詞
 tarm	膽	名詞
 tarn	等	名詞
+tarn	等ン	名詞
+taru	等ル	名詞
+tanu	タヌ	名詞
+tanu	等ヌ	名詞
+tanule	等ヌェ	名詞
 tarng	董	名詞
 tat	值	名詞
 tat	達	名詞
@@ -12004,10 +12010,8 @@ tngr	返	名詞
 tngx	当	名詞
 tngx	當	名詞
 tngx	頓	名詞
-to	と	名詞
-to	ト	名詞
-to	とを	名詞
-to	トヲ	名詞
+toz	とを	名詞
+toz	トヲ	名詞
 to	倒	名詞
 to	到	名詞
 to	卓	名詞
@@ -12213,8 +12217,8 @@ tosi	とし	名詞
 tosi	トシ	名詞
 tosi	着是	名詞
 tosia	多謝	名詞
-tou	とお	名詞
-tou	トオ	名詞
+touz	とお	名詞
+touz	トオ	名詞
 tou	到	名詞
 tou	図	名詞
 tou	堵	名詞
@@ -12241,8 +12245,6 @@ touo	堵	名詞
 touo	斗	名詞
 touo	肚	名詞
 touo	賭	名詞
-toux	とお	名詞
-toux	トオ	名詞
 toux	到	名詞
 toux	妒	名詞
 toux	蠹	名詞
@@ -12263,10 +12265,6 @@ tovaz	とゔぁ	名詞
 tovaz	トヴァ	名詞
 tow	多	名詞
 tow	都	名詞
-tox	と	名詞
-tox	ト	名詞
-tox	とを	名詞
-tox	トヲ	名詞
 tox	倒	名詞
 tox	到	名詞
 toxm	朕	名詞
