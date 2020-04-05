@@ -2839,6 +2839,7 @@ chou	助	名詞
 chou	奏	名詞
 chou	祖	名詞
 chou	租	名詞
+zu	租	名詞
 chou	組	名詞
 chou	詛	名詞
 chou	長	名詞
@@ -4151,6 +4152,7 @@ hngf	荒	名詞
 hngg	園	名詞
 ho	禍	名詞
 ho	號	名詞
+kou	號	名詞
 ho	賀	名詞
 ga	賀	名詞
 hxo	賀	名詞
@@ -4194,6 +4196,14 @@ hoaf	花	名詞
 hoaf	華	名詞
 hoafn	吩	名詞
 hoafn	歡	名詞
+fon	歡	名詞
+fonnyang	歡迎	名詞
+nyang	迎	名詞
+fon	歡ん	名詞
+fan	歡	名詞
+fan	歡ん	名詞
+fanz	ふぁん	名詞
+fonz	ふぉん	名詞
 hoafn	番	名詞
 hoafn	翻	名詞
 hoagi	華語	名詞
@@ -4271,6 +4281,8 @@ hoeeoan	会員	名詞
 hoeez	ほええ	名詞
 hoeez	ホエエ	名詞
 hoef	灰	名詞
+foi	灰	名詞
+foiz	ふぉい	名詞
 hoef	花	名詞
 hoegi	会議	名詞
 hoegoan	会員	名詞
@@ -4294,6 +4306,8 @@ hofng	封	名詞
 hofng	峯	名詞
 hofng	峰	名詞
 hofng	方	名詞
+fong	方	名詞
+fongz	ふぉん	名詞
 hofng	楓	名詞
 hofng	烘	名詞
 hofng	瘋	名詞
@@ -4480,6 +4494,9 @@ huntngthng	粉腸湯	名詞
 hunz	ふん	名詞
 hunz	フン	名詞
 huo	府	名詞
+fuo	府	名詞
+fuoshang	府城	名詞
+fuoz	ふお	名詞
 huo	甫	名詞
 huo	腐	名詞
 huo	許	名詞
@@ -4531,6 +4548,8 @@ hvih	拀	名詞
 hviux	向	名詞
 hw	墟	名詞
 hw	夫	名詞
+fu	夫	名詞
+fuz	ふ	名詞
 hw	膚	名詞
 hw	虛	名詞
 hwn	分	名詞
@@ -4768,6 +4787,7 @@ imi	意麵	名詞
 imtian	陰電	名詞
 imz	いむ	名詞
 imz	イム	名詞
+mz	ム	名詞
 in	孕	名詞
 inkam	印鑑	名詞
 inn	員	名詞
@@ -5027,6 +5047,7 @@ jiim	壬	名詞
 jiimz	じいむ	名詞
 jiimz	ジイム	名詞
 jiin	人	名詞
+nyin	人	名詞
 jiin	仁	名詞
 jiinz	じいん	名詞
 jiinz	ジイン	名詞
@@ -5402,6 +5423,7 @@ kefng	芎	名詞
 kefng	荊	名詞
 kefng	莖	名詞
 kefng	間	名詞
+kien	間	名詞
 kefng	驚	名詞
 kefng	鯨	名詞
 keg	戟	名詞
@@ -8193,6 +8215,8 @@ ofng	尫	名詞
 ofng	汪	名詞
 ofng	翁	名詞
 og	屋	名詞
+ogu	屋	名詞
+vug	屋	名詞
 og	惡	名詞
 oh	學	名詞
 ok	おく	名詞
@@ -8236,6 +8260,11 @@ oux	惡	名詞
 ouz	お	名詞
 ouz	オ	名詞
 ova	換	名詞
+foxn	換	名詞
+foxnsyn	換新	名詞
+faxn	換	名詞
+faxn	換ん	名詞
+foxn	換ん	名詞
 ova	旱	名詞
 ovaf	垵	名詞
 ovaf	安	名詞
@@ -8264,6 +8293,7 @@ paai	排	名詞
 paai	牌	名詞
 paan	瓶	名詞
 paang	房	名詞
+foong	房	名詞
 paang	馮	名詞
 paau	包	名詞
 paau	匏	名詞
@@ -8761,6 +8791,7 @@ piak	ピァク	名詞
 pian	ぴぇぬ	名詞
 pian	ピェヌ	名詞
 pian	便	名詞
+phien	便	名詞
 pian	卞	名詞
 pian	忭	名詞
 pian	汳	名詞
@@ -9495,6 +9526,7 @@ si	徙	名詞
 si	恃	名詞
 si	是	名詞
 sie	死	名詞
+siethea	死体	名詞
 sielang	死人	名詞
 si	氏	名詞
 si	矢	名詞
@@ -10642,6 +10674,8 @@ syn	信	名詞
 syn	呻	名詞
 syn	娠	名詞
 syn	新	名詞
+synz	しン	名詞
+synz	シん	名詞
 syn	申	名詞
 syn	紳	名詞
 syn	莘	名詞
@@ -10847,6 +10881,7 @@ taux	罩	名詞
 taux	閗	名詞
 taux	闘	名詞
 taux	鬥	名詞
+tauxgeng	鬥更	名詞
 taux	鬦	名詞
 taux	鬪	名詞
 taux	鬬	名詞
@@ -11250,9 +11285,10 @@ thiaanz	ティアアン	名詞
 thiaauz	てぃああう	名詞
 thiaauz	ティアアウ	名詞
 thiab	帖	名詞
+foxnthiab	換帖	名詞
 thiab	貼	名詞
-thiabz	てぃあぶ	名詞
-thiabz	ティアブ	名詞
+thiabz	てぃイア	名詞
+thiabz	ティいあ	名詞
 thiad	僣	名詞
 thiad	徹	名詞
 thiad	撤	名詞
