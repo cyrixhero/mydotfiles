@@ -12563,6 +12563,8 @@ chiahun	食煙	名詞形動
 ziahun	食煙	名詞形動	
 siitci	食淨	記号	
 siitts	食淨	記号	
+chiasiau	食洨	名詞形動	
+chiaphun	食洣	名詞形動	
 siitna	食泥	記号	
 siitsu	食水	記号	
 siitts	食朝	記号	
@@ -14884,6 +14886,7 @@ yms	音麥人	記号
 yimmak	音麥	記号	
 yimhio	音響	記号	
 yimyun	音韻	記号	
+ymbo	音謀	名詞	
 ylm	音臨門	記号	
 yimgok	音樂	記号	
 yimngo	音樂	記号	
@@ -17435,6 +17438,7 @@ tianoe	電話	名詞
 tianva	電話	名詞	
 dinwa	電話	名詞	
 denoe	電話	名詞	
+denki	電觔	短縮よみ	
 tiannau	電腦	名詞	
 tiansoann	電線	名詞	
 thiens	電視	記号	
@@ -26133,6 +26137,7 @@ linku	鈴鼓	記号
 llk	鈴鋃鼓	記号	
 linlog	鈴鋃	記号	
 linlon	鈴鋃	記号	
+rindao	鈴刀	名詞	
 liage	鈴仔	記号	
 liange	鈴仔	記号	
 dud	鈴	記号	
@@ -28011,6 +28016,7 @@ ciuofa	酒話	名詞
 tsiuofa	酒話	名詞	
 tsiuth	酒袋	記号	
 ziutho	酒袋	記号	
+zikoar	酒舘	名詞	
 tsiuophxu	酒舖	名詞	
 chiuoba	酒肉	名詞	
 chiuonyuk	酒肉	名詞	
@@ -28046,6 +28052,7 @@ tsiuth	酒徒	記号
 ziuthu	酒徒	記号	
 jiudiam	酒店	名詞	
 taiuotiaxm	酒店	名詞	
+chiutiam	酒店	名詞	
 tsiusi	酒席	記号	
 ziusit	酒席	記号	
 chiuofxu	酒壺	名詞	
@@ -30035,6 +30042,8 @@ sienze	選擇	記号
 sienju	選挙	名詞	
 sienkie	選挙	名詞	
 soarnkie	選挙	名詞	
+soangi	選挙	名詞	
+soanki	選挙	名詞	
 siensu	選手	記号	
 sienth	選定	記号	
 siense	選召	記号	
@@ -30630,6 +30639,7 @@ tetu	達	記号
 that	達	記号	
 tooru	達	記号	
 tholu	道路	記号	
+dosi	道示	接続詞	
 tholi	道理	記号	
 thotet	道德	記号	
 dao	道	記号	
@@ -31267,6 +31277,7 @@ coto	造到	記号
 tshoto	造到	記号	
 cocut	造出	記号	
 tshots	造出	記号	
+zoge	造假	名詞形動	
 cogin	造人	記号	
 tshong	造人	記号	
 cao	造	記号	
@@ -34660,6 +34671,7 @@ cafo	車禍	記号
 tshafo	車禍	記号	
 casim	車心	記号	
 tshasi	車心	記号	
+cihe	車形	名詞	
 chhiazam	車座	名詞	
 cagoi	車外	記号	
 tshang	車外	記号	
@@ -39846,6 +39858,7 @@ maifog	買方	記号
 maifon	買方	記号	
 maisu	買收	記号	
 maivuk	買屋	記号	
+beiau	買夭	記号	
 maithi	買地	記号	
 mainam	買南	記号	
 maiteu	買兜	記号	
@@ -40780,6 +40793,8 @@ yi	𧱏	記号
 dou	𧱎	記号	
 zong	𧱍	記号	
 hofa	豪華	記号	
+haosuiau	豪洨	名詞形動	
+haosiau	豪汳	名詞形動	
 era	豪	記号	
 gh	豪	記号	
 go	豪	記号	
@@ -44598,6 +44613,7 @@ kay	該	記号
 ke	該	記号	
 koi	該	記号	
 fathi	話題	記号	
+oezi	話質	名詞	
 fagi	話語	記号	
 fangi	話語	記号	
 oehoulan	話虎玍	名詞	
@@ -46930,6 +46946,7 @@ sgg	西珥人	記号
 sngng	西珥人	記号	
 sigi	西珥	記号	
 singi	西珥	記号	
+siran	西狼	名詞	
 siphie	西片	記号	
 siciog	西牆	記号	
 sitshi	西牆	記号	
@@ -49493,6 +49510,7 @@ hangli	行禮	記号
 hagcin	行盡	記号	
 hangts	行盡	記号	
 hengui	行爲	名詞	
+xinwe	行爲	名詞	
 hagvi	行為	記号	
 hangvi	行為	記号	
 hengui	行為	名詞	
@@ -58088,6 +58106,7 @@ hggz	華語原載	記号
 hoaai	華語	名詞	
 hoagi	華語	名詞	
 wogi	華語	名詞	
+hoanaran	華腦人	名詞	
 hoacenji	華清字	名詞	
 hoacebun	華星文	名詞	
 hoaceji	華星字	名詞	
@@ -65690,6 +65709,7 @@ phigiu	肥牛	記号
 phingi	肥牛	記号	
 philia	肥料	記号	
 phisan	肥山	記号	
+feizai	肥宰	名詞	
 phitso	肥壯	記号	
 phizog	肥壯	記号	
 phiyen	肥園	記号	
@@ -65820,6 +65840,7 @@ zau	肘	記号
 zhou	肘	記号	
 ziu	肘	記号	
 ru	肗	記号	
+siawia	肖夜	名詞	
 ayaka	肖	記号	
 ch	肖	記号	
 ciu	肖	記号	
@@ -67944,6 +67965,7 @@ kiu	翘	記号
 qiao	翘	記号	
 qi	翗	記号	
 xi	翖	記号	
+hisiophian	翕相片	名詞	
 hipzo	翕ぞ	記号	
 a	翕	記号	
 gmq	翕	記号	
@@ -71421,6 +71443,7 @@ ru	縟	記号
 sigesi	縟	記号	
 yuk	縟	記号	
 zyoku	縟	記号	
+koqihoe	縞魚花	名詞	
 gao	縞	記号	
 gh	縞	記号	
 gou	縞	記号	
@@ -72110,6 +72133,7 @@ kintsh	緊深	記号
 kinliu	緊流	記号	
 kinkhi	緊求	記号	
 kinphu	緊歕	記号	
+kinrai	緊来	名詞形動	
 kinmog	緊望	記号	
 kinmon	緊望	記号	
 kinvog	緊旺	記号	
@@ -73272,6 +73296,7 @@ koen	絅	記号
 rud	絅	記号	
 tsutso	組長	記号	
 zuzog	組長	記号	
+zosu	組詞	名詞形動	
 tsutsi	組織	記号	
 zuziit	組織	記号	
 chouzi	組織	名詞形動	
@@ -78254,6 +78279,7 @@ pittsi	筆跡	記号
 pitzia	筆跡	記号	
 pitcii	筆直	記号	
 pittsh	筆直	記号	
+pioe	筆画	名詞	
 bat	筆	記号	
 bi	筆	記号	
 bid	筆	記号	
@@ -83310,6 +83336,7 @@ zi	祀	記号
 joek	礿	記号	
 yok	礿	記号	
 yue	礿	記号	
+sianu	社畜	名詞	
 shgks	社會研究所	記号	
 safi	社會	記号	
 sakhi	社區	記号	
@@ -85223,6 +85250,7 @@ phlth	破拉他	記号
 phofai	破壞	記号	
 phosag	破城	記号	
 phosan	破城	記号	
+phoatai	破台	名詞形動	
 phoheu	破口	記号	
 ha	破	記号	
 pho	破	名詞	
@@ -85654,6 +85682,7 @@ sakhag	石坑	記号
 sakhan	石坑	記号	
 sakhi	石器	記号	
 saklon	石卵	記号	
+sekzai	石再	形容詞	
 sake	石仔	記号	
 saktun	石tun	記号	
 chio	石	名詞	
@@ -88116,6 +88145,7 @@ khovamai	看邁	記号
 khonko	看過	記号	
 khonth	看透	記号	
 khonkh	看輕	記号	
+khoakirai	看起來	記号	
 khoainn	看見	名詞	
 khonki	看見	記号	
 khonte	看著	記号	
@@ -88141,6 +88171,7 @@ khonth	看地	記号
 khonhi	看去	記号	
 khonka	看加	記号	
 khonto	看到	記号	
+khoavre	看列	記号	
 khoncu	看出	記号	
 khonts	看出	記号	
 khongi	看入	記号	
@@ -88151,8 +88182,10 @@ khonzo	看做	記号
 khonlo	看來	記号	
 khone	看仔	記号	
 khongi	看人	記号	
+khoabo	看亡	記号	
 khonli	看了	記号	
 khovahe	看下	記号	
+khoavre	看レ	記号	
 khovariao	看りあお	記号	
 khovamai	看マイ	名詞	
 khovamai	看まい	記号	
@@ -94403,6 +94436,7 @@ kamgoan	甘願	名詞
 kamngi	甘願	記号	
 kamlu	甘露	記号	
 kamlim	甘霖	記号	
+kamsi	甘示	接続詞	
 kamthi	甘甜	記号	
 kamcan	甘泉	記号	
 kamtsh	甘泉	記号	
@@ -96467,8 +96501,11 @@ lilou	理路	名詞
 lilun	理論	名詞	
 lilun	理論	記号	
 lkl	理解力	記号	
+likaie	理解个	名詞形動	
+rikaie	理解下	名詞形動	
 likai	理解	名詞	
 likie	理解	記号	
+rikai	理解	名詞形動	
 likho	理科	名詞	
 lfs	理番神	記号	
 liiu	理由	名詞	
@@ -97012,6 +97049,7 @@ qls	玭	記号
 dan	玬	記号	
 mkf	玫瑰花	記号	
 moikui	玫瑰	記号	
+bisiauru	玫小女	名詞	
 biru	玫女	名詞	
 mei	玫	記号	
 moee	玫	名詞	
@@ -97021,6 +97059,9 @@ muii	玫	名詞
 muii	玫	記号	
 lin	玪	記号	
 zhen	玪	記号	
+snboesoa	玩未散	記号	
+snbokau	玩亡到	記号	
+snbo	玩亡	記号	
 chitto	玩	記号	
 dks	玩	記号	
 gan	玩	記号	
@@ -104255,6 +104296,7 @@ carmi	炒麵	名詞
 caufan	炒飯	名詞	
 chhareba	炒螺肉	名詞	
 chhatikoan	炒猪肝	名詞	
+chhzo	炒做	名詞形動	
 farai	炒らい	記号	
 chhar	炒ハ	名詞	
 chhar	炒は	名詞	
@@ -104850,6 +104892,7 @@ qve	灍	記号
 kontsu	灌醉	記号	
 konzui	灌醉	記号	
 konko	灌過	記号	
+koazarn	灌賛	名詞形動	
 konto	灌到	記号	
 gon	灌	記号	
 guan	灌	記号	
@@ -111027,6 +111070,7 @@ ngaau	洨	記号
 xiao	洨	記号	
 siaau	洨	記号	
 siau	洨	記号	
+suiau	洨	記号	
 db	洧	記号	
 fui	洧	記号	
 mi	洧	記号	
@@ -112593,6 +112637,7 @@ bin	汴	記号
 phien	汴	記号	
 pian	汴	名詞	
 pien	汴	記号	
+siauhao	汳豪	サジェストのみ	
 ben	汳	記号	
 bian	汳	記号	
 bin	汳	記号	
@@ -126191,6 +126236,7 @@ ziithu	智痛	記号
 tihui	智慧	名詞	
 tsiifi	智慧	記号	
 ziifi	智慧	記号	
+tihui	智廃	短縮よみ	
 akira	智	記号	
 chii	智	記号	
 dix	智	記号	
@@ -126921,6 +126967,7 @@ musabo	昧	記号
 hao	昦	記号	
 hou	昦	記号	
 cunlua	春鸞	記号	
+cuon	春風	名詞	
 cunlim	春霖	記号	
 tshunl	春霖	記号	
 cunyi	春雨	記号	
@@ -127624,6 +127671,7 @@ gitsog	日常	記号
 gitson	日常	記号	
 jitsiong	日常	名詞	
 ngitso	日常	記号	
+zitsion	日常	名詞	
 gitzii	日子	記号	
 jitchi	日子	名詞	
 ngitts	日子	記号	
@@ -128800,6 +128848,8 @@ buune	文藝	名詞
 bunpit	文筆	名詞	
 bunhian	文獻	名詞	
 vunhie	文獻	記号	
+buendon	文清党	名詞	
+buen	文清	名詞	
 vunvu	文武	記号	
 vunsu	文書	記号	
 bbk	文明觀	記号	
@@ -130095,6 +130145,7 @@ kungng	攻入	記号
 kugzam	攻佔	記号	
 kugzia	攻佔	記号	
 kungts	攻佔	記号	
+konhosi	攻互死	名詞形動	
 kugha	攻下	記号	
 kungha	攻下	記号	
 gong	攻	記号	
@@ -131476,6 +131527,7 @@ qefng	擎	記号
 qing	擎	記号	
 rin	擎	記号	
 rud	擎	記号	
+cozo	操造	名詞形動	
 caulie	操練	記号	
 tshaul	操練	記号	
 caufan	操煩	記号	
@@ -131486,6 +131538,7 @@ caulo	操勞	記号
 tshaul	操勞	記号	
 chhof	操ホ	名詞	
 chhof	操ほ	名詞	
+cozo	操ゾ	記号	
 chhau	操アウ	名詞	
 ayatu	操	記号	
 cao	操	記号	
@@ -132976,6 +133029,7 @@ bei	摆	記号
 lu	摅	記号	
 shu	摅	記号	
 syu	摅	記号	
+hirsion	摄像	名詞形動	
 she	摄	記号	
 sip	摄	記号	
 zhe	摄	記号	
@@ -134027,6 +134081,7 @@ capzoi	插喙	記号
 tshapt	插喙	記号	
 capto	插到	記号	
 tshapt	插到	記号	
+cahuda	插分大	感動詞	
 capgip	插入	記号	
 tshapn	插入	記号	
 cape	插仔	記号	
@@ -134531,6 +134586,7 @@ thuifa	推翻	記号
 cuison	推算	記号	
 thuiso	推算	記号	
 tshuis	推算	記号	
+thuite	推特	名詞	
 cuicet	推測	記号	
 thuichhek	推測	名詞	
 tshuit	推測	記号	
@@ -139335,6 +139391,7 @@ qi	𢧊	記号
 zhuo	𢧉	記号	
 zhuo	𢧈	記号	
 ji	㦸	記号	
+sensu	戦士	名詞	
 chen	戦	名詞	
 ikusa	戦	記号	
 onono	戦	記号	
@@ -141240,6 +141297,7 @@ aw	慪	記号
 eu	慪	記号	
 ou	慪	記号	
 lian	慩	記号	
+huai	慧才	名詞	
 akira	慧	記号	
 e	慧	記号	
 fi	慧	記号	
@@ -145005,6 +145063,7 @@ wang	忘	記号
 wasu	忘	記号	
 tsiing	志願	記号	
 ziigie	志願	記号	
+chiji	志己	名詞	
 tsiihi	志向	記号	
 ziihio	志向	記号	
 be	志	記号	
@@ -146741,6 +146800,7 @@ duo	𢑑	記号
 dang	𢑐	記号	
 yi	𢑏	記号	
 donkuiriao	当歸料	名詞	
+tonsi	当時	名詞	
 dengre	当れ	副詞	
 a	当	記号	
 dang	当	記号	
@@ -148221,6 +148281,7 @@ kogyit	廣益	記号
 kongyi	廣益	記号	
 kogcog	廣場	記号	
 kongts	廣場	記号	
+koria	廣了	記号	
 gong	廣	記号	
 guang	廣	記号	
 gwong	廣	記号	
@@ -148560,6 +148621,8 @@ skd	廊	記号
 huitshia	廃車	名詞	
 huigi	廃言い	形容詞	
 huigian	廃言	名詞	
+huiun	廃文	名詞	
+huizai	廃才	名詞	
 huihi	廃墟	名詞	
 huihy	廃墟	名詞	
 fuinyin	廃人	名詞	
@@ -151443,6 +151506,7 @@ kugcie	工錢	記号
 kungts	工錢	記号	
 kugzii	工資	記号	
 kungts	工資	記号	
+khangoeriao	工課了	名詞形動	
 khangkhoe	工課	名詞	
 khangoe	工課	名詞	
 kunren	工能	名詞	
@@ -156304,6 +156368,7 @@ siayu	寫有	記号
 siasu	寫書	記号	
 siavan	寫完	記号	
 siasii	寫字	記号	
+siarji	寫字	名詞形動	
 siaho	寫好	記号	
 siato	寫到	記号	
 siatso	寫做	記号	
@@ -157425,6 +157490,7 @@ thints	定做	記号
 thinzo	定做	記号	
 thinli	定例	記号	
 thinvi	定位	記号	
+tenui	定位	名詞形動	
 thinli	定了	記号	
 deng	定	記号	
 ding	定	記号	
@@ -157692,6 +157758,7 @@ anke	安價	名詞
 ontso	安做	記号	
 onzo	安做	記号	
 onfun	安份	記号	
+anna	安今	接頭語	
 onhiog	安享	記号	
 onhion	安享	記号	
 anne	安ネ	名詞	
@@ -158320,8 +158387,10 @@ siimie	字面	記号
 jisu	字詞	名詞	
 siigie	字眼	記号	
 siingi	字眼	記号	
+jioe	字画	名詞	
 jibo	字母	名詞	
 siikin	字根	記号	
+jisu	字士	名詞	
 jitian	字典	名詞	
 aza	字	記号	
 azana	字	記号	
@@ -161668,6 +161737,7 @@ nucoi	奴才	記号
 nugcoi	奴才	記号	
 nungts	奴才	記号	
 nutsho	奴才	記号	
+nuzai	奴才	名詞	
 nupi	奴婢	記号	
 nuphuk	奴僕	記号	
 do	奴	記号	
@@ -161681,6 +161751,7 @@ nung	奴	記号
 sh	奴	記号	
 yakko	奴	記号	
 yatu	奴	記号	
+rax	奴	記号	
 mou	𡚦	記号	
 gzog	女裝	記号	
 ngtson	女裝	記号	
@@ -162605,6 +162676,8 @@ thphk	太平間	記号
 thaiph	太平	記号	
 thaits	太子	記号	
 thaizi	太子	記号	
+taikoran	太国郎	名詞	
+taiko	太国	組織	
 thaihe	太后	記号	
 thaicu	太初	記号	
 thaits	太初	記号	
@@ -162630,6 +162703,7 @@ thienp	天邊	記号
 thient	天轉	記号	
 thienz	天轉	記号	
 thienk	天軍	記号	
+thcia	天車	短縮よみ	
 thienl	天路	記号	
 thiens	天賜	記号	
 thiens	天象	記号	
@@ -162968,6 +163042,7 @@ thaizi	大井	記号
 tshbs	大事化無事	記号	
 thaisi	大事	記号	
 thailo	大亂	記号	
+toaroandau	大乱鬥	名詞	
 thaico	大串	記号	
 thaits	大串	記号	
 thcf	大丈夫	記号	
@@ -168006,6 +168081,7 @@ xia	㘡	記号
 bi	㘠	記号	
 tou	图	記号	
 tu	图	記号	
+kogsu	国士	名詞	
 guo	国	記号	
 gwok	国	記号	
 ko	国	記号	
@@ -168202,6 +168278,7 @@ liang	𡆨	記号
 chuang	𡆧	記号	
 cong	𡆧	記号	
 chuang	㘟	記号	
+thoanyuan	団員	名詞	
 dan	団	記号	
 katamari	団	記号	
 maru	団	記号	
@@ -175517,6 +175594,7 @@ yo	吉	記号
 yosi	吉	記号	
 zid	吉	記号	
 hapsii	合適	記号	
+gakin	合近	名詞形動	
 haki	合記	名詞形動	
 hapten	合著	記号	
 hapyi	合而	記号	
@@ -176021,6 +176099,7 @@ tsiihe	只住	記号
 ziihet	只住	記号	
 chitui	只位	名詞	
 chite	只个	名詞	
+zireto	只レト	接続詞	
 zile	只レ	名詞	
 chitre	只レ	接頭語	
 chi	只	名詞	
@@ -178047,6 +178126,7 @@ lu	卢	記号
 lv	卢	記号	
 khachoa	卡絕	名詞	
 khasi	卡死	記号	
+kauian	卡有影	副詞	
 khah	卡ハ	名詞	
 khah	卡は	名詞	
 kha	卡ア	名詞	
@@ -179696,6 +179776,7 @@ xv	勖	記号
 thugvu	動物	記号	
 thungv	動物	記号	
 tongbut	動物	名詞	
+tonban	動漫	短縮よみ	
 thugki	動機	記号	
 thungk	動機	記号	
 tongki	動機	名詞	
@@ -180876,6 +180957,7 @@ jvan	剶	記号
 jian	剱	記号	
 ken	剱	記号	
 turugi	剱	記号	
+senyu	剰余	名詞	
 ama	剰	記号	
 amatusae	剰	記号	
 sheng	剰	記号	
@@ -182390,10 +182472,12 @@ tiau	刁	記号
 tiaw	刁	名詞	
 tiaw	刁	記号	
 toseu	刀鞘	記号	
+tosizoe	刀示多	形容詞	
 tosiai	刀示乂	記号	
 tosi	刀示	接続詞	
 tociog	刀槍	記号	
 totshi	刀槍	記号	
+toan	刀員	地名	
 tokiam	刀劍	記号	
 tokog	刀光	記号	
 tokong	刀光	記号	
@@ -183520,6 +183604,7 @@ gam	冚	記号
 ham	冚	記号	
 kam	冚	記号	
 kan	冚	記号	
+siarzi	写字	名詞形動	
 se	写	記号	
 sya	写	記号	
 utu	写	記号	
@@ -183796,6 +183881,8 @@ tsaihi	再去	記号
 zaihi	再去	記号	
 tsaika	再加	記号	
 zaika	再加	記号	
+chan	再剣	記号	
+chiam	再剣	記号	
 tsaito	再到	記号	
 zaito	再到	記号	
 tsaiko	再光	記号	
@@ -184763,6 +184850,7 @@ cionyi	全意	記号
 tshion	全意	記号	
 cionsi	全心	記号	
 tshion	全心	記号	
+kuan	全工	名詞	
 cionto	全島	記号	
 tshion	全島	記号	
 cionka	全家	記号	
@@ -187671,6 +187759,7 @@ zogi	做你	記号
 tsopha	做伴	記号	
 zophan	做伴	記号	
 zofoe	做会	副詞	
+zohoekiav	做伙行	名詞形動	
 chohoe	做伙	名詞	
 tsongi	做人	記号	
 zogin	做人	記号	
@@ -193266,6 +193355,7 @@ athl	亞他林	記号
 athlg	亞他利雅	記号	
 athlng	亞他利雅	記号	
 anai	亞乃	記号	
+ana	亞乃	感動詞	
 aten	亞丁	記号	
 a	亞	記号	
 aa	亞	記号	
@@ -193288,6 +193378,10 @@ zheng	𠄪	記号
 mou	𠄩	記号	
 heng	𠄨	記号	
 xvan	𠀥	記号	
+aran	亜郎	名詞	
+aran	亜郎	人名	
+aion	亜用	記号	
+ana	亜乃	感動詞	
 a	亜	記号	
 af	亜	名詞	
 aq	亜	名詞	
@@ -193509,6 +193603,8 @@ kii	亓	記号
 qi	亓	記号	
 fusiog	互相	記号	
 fusion	互相	記号	
+hosaire	互使礼	形容詞	
+hosaire	互使レ	形容詞	
 fu	互	記号	
 gh	互	記号	
 go	互	記号	
@@ -194478,8 +194574,17 @@ sunawa	乃	記号
 aizisai	乂食屎	記号	
 aichisai	乂食屎	記号	
 aibe	乂買	記号	
+aihaosiau	乂豪消	名詞形動	
+aikornoe	乂講話	名詞形動	
+aihouran	乂虎爛	名詞形動	
 aisn	乂耍	記号	
+aisnkau	乂玩到	記号	
+aisn	乂玩	記号	
+aisiogan	乂燒幹	名詞形動	
 aiu	乂有	接続詞	
+aikenho	乂更風	名詞形動	
+aipadenton	乂打電動	名詞形動	
+aizosiu	乂作秀	名詞形動	
 ai	乂	記号	
 dp	乂	記号	
 gai	乂	記号	
@@ -194677,6 +194782,7 @@ chan	丳	記号
 sarn	丳	記号	
 mou	𠁨	記号	
 zhong	𠁧	記号	
+coatheuzin	串頭人	名詞	
 chhoxnsen	串錢ん	名詞形動	
 chhoxnsen	串錢	名詞形動	
 conko	串過	記号	
@@ -195177,6 +195283,7 @@ putgi	不義	記号
 putngi	不義	記号	
 putkon	不管	記号	
 putyi	不移	記号	
+msi	不示	接続詞	
 putti	不知	記号	
 mtioh	不着	名詞	
 putliu	不留	記号	
@@ -195584,6 +195691,8 @@ samngi	三年	記号
 samcen	三層	記号	
 samtsh	三層	記号	
 sammi	三尾	記号	
+sasioran	三小人	名詞	
+sasio	三小	感動詞	
 samtui	三對	記号	
 samka	三家	記号	
 samtha	三大	記号	
@@ -197005,6 +197114,10 @@ na	ナ	記号
 naz	ナ	名詞	
 na	な	記号	
 naz	な	名詞	
+tosianne	ト示安年	感動詞	
+tosiaianne	ト示乂安年	感動詞	
+tosi	ト示	接続詞	
+tobo	ト亡	副詞	
 tong	トン	名詞	
 tongx	トン	名詞	
 tong	とん	名詞	
@@ -198751,6 +198864,7 @@ I	ぃ	記号
 ix	ぃ	記号	
 liz	ぃ	名詞	
 xi	ぃ	記号	
+asirai	ア示来	副詞	
 asi	ア示	連体詞	
 anna	あんな	終助詞	
 anne	あんえ	接続詞	
@@ -229631,117 +229745,3 @@ pt	、	記号
 pt	，	記号	
 ,	,	記号	
 -	-	記号	
-hisiophian	翕相片	名詞	
-khoavre	看レ	記号	
-khoavre	看列	記号	
-gakin	合近	名詞形動	
-hosaire	互使レ	形容詞	
-hosaire	互使礼	形容詞	
-khoabo	看亡	記号	
-thuite	推特	名詞	
-anna	安今	接頭語	
-ana	亞乃	感動詞	
-ana	亜乃	感動詞	
-zoge	造假	名詞形動	
-cozo	操造	名詞形動	
-cozo	操ゾ	記号	
-toaroandau	大乱鬥	名詞	
-sasio	三小	感動詞	
-thoanyuan	団員	名詞	
-aikenho	乂更風	名詞形動	
-sasioran	三小人	名詞	
-tosizoe	刀示多	形容詞	
-asirai	ア示来	副詞	
-siawia	肖夜	名詞	
-kauian	卡有影	副詞	
-khangoeriao	工課了	名詞形動	
-zikoar	酒舘	名詞	
-zitsion	日常	名詞	
-hirsion	摄像	名詞形動	
-chiutiam	酒店	名詞	
-beiau	買夭	記号	
-thcia	天車	短縮よみ	
-aizosiu	乂作秀	名詞形動	
-aikornoe	乂講話	名詞形動	
-aihouran	乂虎爛	名詞形動	
-aihaosiau	乂豪消	名詞形動	
-aipadenton	乂打電動	名詞形動	
-aisiogan	乂燒幹	名詞形動	
-aisn	乂玩	記号	
-snboesoa	玩未散	記号	
-zireto	只レト	接続詞	
-tonsi	当時	名詞	
-aisnkau	乂玩到	記号	
-snbo	玩亡	記号	
-snbokau	玩亡到	記号	
-dosi	道示	接続詞	
-tosi	ト示	接続詞	
-tosianne	ト示安年	感動詞	
-tosiaianne	ト示乂安年	感動詞	
-siarji	寫字	名詞形動	
-siarzi	写字	名詞形動	
-haosiau	豪汳	名詞形動	
-hoanaran	華腦人	名詞	
-nuzai	奴才	名詞	
-tihui	智廃	短縮よみ	
-msi	不示	接続詞	
-rikai	理解	名詞形動	
-likaie	理解个	名詞形動	
-rikaie	理解下	名詞形動	
-bisiauru	玫小女	名詞	
-sensu	戦士	名詞	
-tonban	動漫	短縮よみ	
-zosu	組詞	名詞形動	
-sianu	社畜	名詞	
-xinwe	行爲	名詞	
-phoatai	破台	名詞形動	
-koria	廣了	記号	
-chhzo	炒做	名詞形動	
-ymbo	音謀	名詞	
-koazarn	灌賛	名詞形動	
-siauhao	汳豪	サジェストのみ	
-chiaphun	食洣	名詞形動	
-chiasiau	食洨	名詞形動	
-suiau	洨	記号	
-haosuiau	豪洨	名詞形動	
-cuon	春風	名詞	
-khoakirai	看起來	記号	
-sekzai	石再	形容詞	
-aion	亜用	記号	
-cihe	車形	名詞	
-pioe	筆画	名詞	
-taiko	太国	組織	
-tobo	ト亡	副詞	
-oezi	話質	名詞	
-kinrai	緊来	名詞形動	
-jioe	字画	名詞	
-senyu	剰余	名詞	
-taikoran	太国郎	名詞	
-konhosi	攻互死	名詞形動	
-chiji	志己	名詞	
-kuan	全工	名詞	
-koqihoe	縞魚花	名詞	
-tenui	定位	名詞形動	
-zohoekiav	做伙行	名詞形動	
-kamsi	甘示	接続詞	
-coatheuzin	串頭人	名詞	
-buen	文清	名詞	
-buendon	文清党	名詞	
-soangi	選挙	名詞	
-soanki	選挙	名詞	
-denki	電觔	短縮よみ	
-huai	慧才	名詞	
-huizai	廃才	名詞	
-rax	奴	記号	
-cahuda	插分大	感動詞	
-feizai	肥宰	名詞	
-toan	刀員	地名	
-kogsu	国士	名詞	
-jisu	字士	名詞	
-rindao	鈴刀	名詞	
-siran	西狼	名詞	
-chan	再剣	記号	
-chiam	再剣	記号	
-aran	亜郎	名詞	
-aran	亜郎	人名	
-huiun	廃文	名詞	
