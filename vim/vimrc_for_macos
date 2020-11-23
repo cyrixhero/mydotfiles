@@ -24,7 +24,7 @@ set shiftwidth=4
 set expandtab
 set background=dark
 set tabstop=4 softtabstop=4 shiftwidth=4
-set guifont=Menlo\ Regular:h18
+set guifont=Source\ Code\ Pro\ for\ Powerline:h18
 set lines=50 columns=135
 set scrolloff=10
 set list listchars=tab:\:\ ,trail:·,extends:?,precedes:?,nbsp:×
@@ -62,6 +62,18 @@ Plug 'tomtom/tcomment_vim'
 " With this plugin, your vim comes to automatically opens popup menu for
 " completions when you enter characters or move the cursor in Insert mode.
 Plug 'vim-scripts/AutoComplPop'
+
+" lean & mean status/tabline for vim that's light as air
+Plug 'bling/vim-airline'
+let &t_Co=256
+set laststatus=2
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+let g:airline#extensions#tabline#buffer_nr_show = 1
+nnoremap [b :bp<CR>
+nnoremap ]b :bn<CR>
 
 " Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 Plug 'klen/python-mode'
