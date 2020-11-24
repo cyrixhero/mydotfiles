@@ -24,7 +24,7 @@ set shiftwidth=4
 set expandtab
 set background=dark
 set tabstop=4 softtabstop=4 shiftwidth=4
-set guifont=Source\ Code\ Pro\ for\ Powerline:h18
+set guifont=Source\ Code\ Pro\ for\ Powerline:h20
 set lines=50 columns=135
 set scrolloff=10
 set list listchars=tab:\:\ ,trail:·,extends:?,precedes:?,nbsp:×
