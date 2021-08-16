@@ -1,2 +1,2 @@
-# mydotfiles
+# MyDotFiles
 Góa ê dotfiles.
